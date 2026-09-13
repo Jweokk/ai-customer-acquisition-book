@@ -1,12 +1,15 @@
-# 《AI 获客》· AI Customer Acquisition
+# AI 获客（AI Customer Acquisition）
 
-> **用 AI 拓客：找到、选中、谈成、带走** · 免费公开 · 持续更新
+> *用 AI 拓客：找到、选中、谈成、带走*
+
+> 客户挑供应商的地方换了——他们问 AI、让 Agent 去筛、看平台推的和别人说的。
+> 免费公开 · 持续更新 · 欢迎在线阅读与分享
+
+> **English edition**：[README.md](README.md) · [Start reading](book-en/00-preface-how-buyers-find-vendors.md)（英文版与中文版同步更新）
 
 **作者：Jweokk** · 联系邮箱：weokk2025@gmail.com
 
-📖 **在线阅读**：https://ai-customer-acquisition.fly2ai.top
-📥 **下载整本 PDF**：[book/ai-customer-acquisition.pdf](book/ai-customer-acquisition.pdf)（持续更新，最新版）
-🌐 **English edition**：[book-en/](book-en/)（AI Customer Acquisition，随中文版一起更新）
+**在线阅读**：[ai-customer-acquisition.fly2ai.top](https://ai-customer-acquisition.fly2ai.top)（移动端友好） · **整本下载**：[中文 PDF](https://ai-customer-acquisition.fly2ai.top/ai-customer-acquisition.pdf) · [English PDF](ai-customer-acquisition-en.pdf)（随版本更新，最新版）
 
 ---
 

@@ -1,12 +1,14 @@
 # AI Customer Acquisition
 
-> **Use AI to acquire customers: find them, get shortlisted, close them, and let them bring the next one.** Free, open, continuously updated.
-> Chinese edition is the source of truth; the English edition ships alongside it in [`book-en/`](book-en/).
+> **Use AI to acquire customers: find them, get shortlisted, close them, and let them bring the next one.** Free to read · Continuously updated · Open source
+
+> **简体中文版**：[README.zh.md](README.zh.md)（中文版是源语言，内容与英文版同步更新）
 
 **Author: Jweokk** · Contact: weokk2025@gmail.com
 
-📖 **Read online (Chinese)**: https://ai-customer-acquisition.fly2ai.top
-📥 **Download the PDF (latest)**: [book/ai-customer-acquisition.pdf](book/ai-customer-acquisition.pdf)
+**Read online (Chinese)**: [ai-customer-acquisition.fly2ai.top](https://ai-customer-acquisition.fly2ai.top)
+**Start reading (English)**: [00 · Preface — How Buyers Find Vendors](book-en/00-preface-how-buyers-find-vendors.md)（英文版逐章都在 `book-en/`）
+**Download**: [PDF (English)](ai-customer-acquisition-en.pdf) · [PDF (中文)](book/ai-customer-acquisition.pdf)（随版本更新，最新版）
 
 ---
 

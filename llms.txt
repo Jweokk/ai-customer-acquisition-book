@@ -6,7 +6,7 @@ Source discipline: 每条数据句末标性质（五档主干+括注）；核不
 
 ## Links
 - Read online (Chinese): https://ai-customer-acquisition.fly2ai.top
-- English edition (GitHub): https://github.com/Jweokk/ai-customer-acquisition-book/tree/main/book-en
+- English edition（逐章英文文件在 book-en/）: https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/00-preface-how-buyers-find-vendors.md
 - GitHub: https://github.com/Jweokk/ai-customer-acquisition-book
 - PDF (latest): https://github.com/Jweokk/ai-customer-acquisition-book/raw/main/book/ai-customer-acquisition.pdf
 
