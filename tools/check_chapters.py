@@ -23,8 +23,15 @@ RED_LINES = [
     "本章字数", "字数：", "不确定清单", "本章三问", "行业落点表",
     "下一轮补采", "补采建议", "写作说明", "待核清单",
 ]
+# 附录只查这几条（附录本来就是台账与版本说明，允许"未采用口径""来源分档"这类写法）
+RED_LINES_APPENDIX = ["本章三问", "本章字数", "下一轮补采", "待核清单"]
+
+APPENDIX_PREFIX = ("90-", "91-", "92-", "93-")
 
 CHAPTER_RE = re.compile(r"^(\d{2})-第(\d{1,2})章-(.+)\.md$")
+
+# ★已定稿：用户确认过的成稿。不受篇幅下限约束，也不参与改写待办统计。
+FINAL_DRAFT = {"02-第2章-让AI在回答里提到你.md"}
 
 
 def chapters():
@@ -61,8 +68,9 @@ def main():
                 elif n not in ch:
                     warnings.append(f"[指向未落盘章] {fn}: 第 {n} 章")
 
-        # 2. 语言红线
-        hit = [w for w in RED_LINES if w in t]
+        # 2. 语言红线（附录只查少数几条）
+        words = RED_LINES_APPENDIX if fn.startswith(APPENDIX_PREFIX) else RED_LINES
+        hit = [w for w in words if w in t]
         if hit:
             errors.append(f"[语言红线] {fn}: {hit}")
 
@@ -81,7 +89,7 @@ def main():
         if not re.search(r"^## 本章数据来源|^## 本章来源", t, flags=re.M):
             errors.append(f"[缺章末节] 第 {n} 章 {fn}: 缺 本章数据来源")
         h = hanzi(t)
-        if h < 3000:
+        if h < 3000 and fn not in FINAL_DRAFT:
             warnings.append(f"[篇幅偏短] 第 {n} 章 {fn}: {h} 汉字（目标 ≥3000）")
 
     print("=" * 62)
