@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.2.1 — 2026-09-13（案例轮）
+
+- **补采并织入 16 个「暂无公开可核案例」点位**：第 1、10、12、15、17、19 章的办法例子换成具名可核案例（Epic/苹果版号新规/帕拓逊封号潮/Zynga、东方甄选切片/抖音矩阵号规范/YouTube 变现政策/Gong/Strava、HubSpot Grader/Heroku 免费计划下线/Shopify 起名器、Zillow 减记/Robodebt/Air Canada 聊天机器人/SyRI、iTutorGroup/DPD、Monzo/Robinhood/荣耀/Amazon Associates 等）。
+- 每个新案例都经**逐条回源**：URL 逐条 curl 实测 2xx，且来源中能读到支持结论的原句；核不上的不进正文。
+- **新增附录 A.8 案例池**：案例补采完整台账（具名＋URL＋性质分档＋去向），含未进正文的预留条目。
+- 来源纪律不变：厂商自报标【厂商宣称】或【厂商自报】；监管文件与公司年报／招股书单列分档。
+
 ## v0.2.0 — 2026-09-13（结构版）
 
 - **书定名《AI 获客》**（英文 AI Customer Acquisition），与《AI 客户经营》严格区分；终点线划在完成首次交易/签约。
