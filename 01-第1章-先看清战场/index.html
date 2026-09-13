@@ -1,0 +1,2208 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="AI Customer Acquisition — GEO、暗漏斗与 Agent 时代的客户获取 · 免费公开、持续更新的开源书">
+      
+      
+      
+        <link rel="canonical" href="https://ai-customer-acquisition.fly2ai.top/01-%E7%AC%AC1%E7%AB%A0-%E5%85%88%E7%9C%8B%E6%B8%85%E6%88%98%E5%9C%BA/">
+      
+      
+        <link rel="prev" href="../00z-%E7%AF%87%E4%B8%80-%E5%85%88%E7%9C%8B%E6%B8%85%E6%88%98%E5%9C%BA/">
+      
+      
+        <link rel="next" href="../01z-%E7%AF%87%E4%BA%8C-AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%B9%E6%B3%95/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>第 1 章 先看清战场：客户现在怎么挑供应商 - AI 获客</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="teal">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href=".." title="AI 获客" class="md-header__button md-logo" aria-label="AI 获客" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            AI 获客
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              第 1 章 先看清战场：客户现在怎么挑供应商
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="teal"  aria-label="切换到深色模式"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="切换到深色模式" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="teal"  aria-label="切换到浅色模式"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="切换到浅色模式" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Jweokk/ai-customer-acquisition-book" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="AI 获客" class="md-nav__button md-logo" aria-label="AI 获客" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    AI 获客
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Jweokk/ai-customer-acquisition-book" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    首页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../00-%E5%BA%8F-%E5%AE%A2%E6%88%B7%E6%89%BE%E4%BE%9B%E5%BA%94%E5%95%86%E7%9A%84%E6%96%B9%E5%BC%8F%E5%8F%98%E4%BA%86/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    序 · 客户找供应商的方式变了
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第一篇 先看清战场
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第一篇 先看清战场
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../00z-%E7%AF%87%E4%B8%80-%E5%85%88%E7%9C%8B%E6%B8%85%E6%88%98%E5%9C%BA/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    篇一 · 先看清战场
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 1 章 先看清战场：客户现在怎么挑供应商
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 1 章 先看清战场：客户现在怎么挑供应商
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 1：先弄清客户在哪儿就把你比完了
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-ai-25" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 2：每月问 AI 25 个问题，把"在不在场"变成一张表
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 3：找刚成交的客户做一次漏斗考古
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 4：把买家的问法原话沉成一份问题台账
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5ai-ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 5：分清"AI 产品"和"AI 模型"，别拿错尺子
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        本章注意
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        本章数据来源
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第二篇 AI 时代的新方法
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第二篇 AI 时代的新方法
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01z-%E7%AF%87%E4%BA%8C-AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%B9%E6%B3%95/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    篇二 · AI 时代的新方法
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02-%E7%AC%AC2%E7%AB%A0-%E8%AE%A9AI%E5%9C%A8%E5%9B%9E%E7%AD%94%E9%87%8C%E6%8F%90%E5%88%B0%E4%BD%A0/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 2 章 让 AI 在回答里提到你：GEO/AEO 怎么做
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-%E7%AC%AC3%E7%AB%A0-%E6%8C%A4%E8%BF%9B%E5%AE%A2%E6%88%B7%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E5%90%8D%E5%8D%95/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 3 章 挤进客户的第一份名单
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-%E7%AC%AC4%E7%AB%A0-%E8%AE%A9%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9B%BF%E4%BD%A0%E8%AF%B4%E8%AF%9D/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 4 章 让第三方替你说话
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05-%E7%AC%AC5%E7%AB%A0-%E5%85%88%E8%AE%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9D%91/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 5 章 先讲自己的坑
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06-%E7%AC%AC6%E7%AB%A0-%E8%AE%A9%E6%9C%BA%E5%99%A8%E8%AF%BB%E6%87%82%E4%BD%A0/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 6 章 让机器读懂你
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../07-%E7%AC%AC7%E7%AB%A0-%E8%AE%A9%E4%B9%B0%E5%AE%B6%E7%9A%84AI%E4%BB%A3%E7%90%86%E9%80%89%E4%B8%AD%E4%BD%A0/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 7 章 让买家的 AI 代理选中你
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../08-%E7%AC%AC8%E7%AB%A0-%E4%B8%AD%E6%96%87%E5%B8%82%E5%9C%BA%E8%A6%81%E5%A4%9A%E5%81%9A%E4%B8%89%E4%BB%B6%E4%BA%8B/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 8 章 中文市场要多做三件事
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第三篇 用 AI 改造老办法
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第三篇 用 AI 改造老办法
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../08z-%E7%AF%87%E4%B8%89-%E7%94%A8AI%E6%94%B9%E9%80%A0%E8%80%81%E5%8A%9E%E6%B3%95/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    篇三 · 用 AI 改造老办法
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第一步 · 找到（让客户第一次碰到你）
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第一步 · 找到（让客户第一次碰到你）
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../09-%E7%AC%AC9%E7%AB%A0-%E6%8A%95%E5%B9%BF%E5%91%8A/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 9 章 投广告：从"选人群"到"给目标"
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10-%E7%AC%AC10%E7%AB%A0-%E5%9C%A8%E5%88%AB%E4%BA%BA%E7%9A%84%E5%B9%B3%E5%8F%B0%E4%B8%8A%E8%8E%B7%E5%AE%A2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 10 章 在别人的平台上获客：应用商店、电商站内、行业目录
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11-%E7%AC%AC11%E7%AB%A0-%E8%AE%A9%E5%88%AB%E4%BA%BA%E6%9B%BF%E4%BD%A0%E5%8D%96/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 11 章 让别人替你卖：渠道、代理、生态目录
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../12-%E7%AC%AC12%E7%AB%A0-%E6%8A%8A%E4%B8%80%E6%AC%A1%E5%86%85%E5%AE%B9%E6%8B%86%E6%88%90%E4%B8%89%E5%8D%81%E6%9D%A1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 12 章 把一次内容拆成三十条：AI 内容工厂与矩阵分发
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../13-%E7%AC%AC13%E7%AB%A0-%E5%A4%96%E8%81%94-%E4%BB%8E%E5%8F%91%E5%BE%97%E5%A4%9A%E5%88%B0%E5%8F%91%E5%BE%97%E5%87%86/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 13 章 外联：从"发得多"到"发得准"
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第二步 · 选中（他开始比较，你得被留下）
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第二步 · 选中（他开始比较，你得被留下）
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../14-%E7%AC%AC14%E7%AB%A0-%E5%81%9A%E5%87%BA%E5%88%AB%E4%BA%BA%E6%8A%84%E4%B8%8D%E8%B5%B0%E7%9A%84%E5%86%85%E5%AE%B9/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 14 章 做出别人抄不走的内容：一手数据与真实案例
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../15-%E7%AC%AC15%E7%AB%A0-%E8%AE%A9%E4%BA%A7%E5%93%81%E8%87%AA%E5%B7%B1%E6%8B%89%E5%AE%A2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 15 章 让产品自己拉客：免费工具、试用、开放接口
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../16-%E7%AC%AC16%E7%AB%A0-%E8%AE%A9AI24%E5%B0%8F%E6%97%B6%E6%9B%BF%E4%BD%A0%E6%8E%A5%E5%AE%A2%E6%88%B7/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 16 章 让 AI 24 小时替你接客户
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_4" id="__nav_5_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第三步 · 谈成（他愿意聊了）
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第三步 · 谈成（他愿意聊了）
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../17-%E7%AC%AC17%E7%AB%A0-%E7%94%A8AI%E6%89%BE%E5%AE%A2%E6%88%B7%E7%AE%A1%E7%BA%BF%E7%B4%A2%E8%B7%91%E9%94%80%E5%94%AE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 17 章 用 AI 找客户、管线索、跑销售
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../18-%E7%AC%AC18%E7%AB%A0-%E7%94%B5%E8%AF%9D%E5%92%8C%E7%A7%81%E5%9F%9F/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 18 章 电话和私域：哪些还能用，哪些碰了就出事
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_5" id="__nav_5_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第四步 · 带走（他成了客户）
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第四步 · 带走（他成了客户）
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../19-%E7%AC%AC19%E7%AB%A0-%E8%AE%A9%E5%AE%A2%E6%88%B7%E6%9B%BF%E4%BD%A0%E5%B8%A6%E5%AE%A2%E6%88%B7/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 19 章 让客户替你带客户：口碑、推荐与裂变
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第四篇 别白花钱、别把地基打歪
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    第四篇 别白花钱、别把地基打歪
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../19z-%E7%AF%87%E5%9B%9B-%E5%88%AB%E7%99%BD%E8%8A%B1%E9%92%B1%E5%88%AB%E6%8A%8A%E5%9C%B0%E5%9F%BA%E6%89%93%E6%AD%AA/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    篇四 · 别白花钱、别把地基打歪
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../20-%E7%AC%AC20%E7%AB%A0-%E6%80%8E%E4%B9%88%E7%9F%A5%E9%81%93%E6%9C%89%E6%B2%A1%E6%9C%89%E7%94%A8/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 20 章 怎么知道有没有用：三套账本和一次停投实验
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../21-%E7%AC%AC21%E7%AB%A0-%E5%88%AB%E6%8A%8A%E5%91%BD%E6%8A%BC%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%85%A5%E5%8F%A3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 21 章 别把命押在一个入口：依赖体检与对冲
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../22-%E7%AC%AC22%E7%AB%A0-%E5%85%88%E6%89%93%E5%9C%B0%E5%9F%BA/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 22 章 先打地基：一方数据、合规、全渠道编排
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../23-%E7%AC%AC23%E7%AB%A0-%E8%B0%81%E6%9D%A5%E5%B9%B2%E8%8A%B1%E5%A4%9A%E5%B0%91%E9%92%B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 23 章 谁来干、花多少钱：三档最小配置
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../24-%E7%AC%AC24%E7%AB%A0-%E5%88%AB%E8%B8%A9%E8%BF%99%E4%BA%9B%E7%BA%BF-%E5%85%AD%E4%BB%BD%E5%A4%B1%E8%B4%A5%E6%A1%A3%E6%A1%88/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 24 章 别踩这些线：六份失败档案
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    附录
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../90-%E9%99%84%E5%BD%95A-%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95%E4%B8%8E%E8%B5%84%E6%96%99%E5%87%BA%E5%A4%84/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 A 案例索引与资料出处
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../91-%E9%99%84%E5%BD%95B-%E6%89%8B%E6%AE%B5%E5%B9%B3%E5%8F%B0%E7%B4%A2%E5%BC%95%E4%B8%8E%E6%8C%87%E6%A0%87%E5%AD%97%E5%85%B8/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 B 手段平台索引表与指标字典
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../92-%E9%99%84%E5%BD%95C-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2%E4%B8%8E%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 C 版本历史与更新说明
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../93-%E9%99%84%E5%BD%95D-%E8%A1%8C%E4%B8%9A%E5%B7%AE%E5%BC%82%E7%9F%A9%E9%98%B5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 D 行业差异矩阵
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../94-%E9%99%84%E5%BD%95E-%E5%85%A8%E4%B9%A6%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 E 全书参考文献
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 1：先弄清客户在哪儿就把你比完了
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-ai-25" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 2：每月问 AI 25 个问题，把"在不在场"变成一张表
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 3：找刚成交的客户做一次漏斗考古
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 4：把买家的问法原话沉成一份问题台账
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5ai-ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        办法 5：分清"AI 产品"和"AI 模型"，别拿错尺子
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        本章注意
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        本章数据来源
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="1">第 1 章 先看清战场：客户现在怎么挑供应商<a class="headerlink" href="#1" title="Permanent link">&para;</a></h1>
+<p>客户挑供应商的地方换了：过去他要在搜索框里反复试词、在展会上一个个拿名片、把你和其他几家排在一张表上比，现在他往往在见你之前就把名单圈好了，你连他怎么圈的都不知道。</p>
+<p>客户现在会先问 AI、先看别人的评价、先自己圈一份名单——这几步你都看不见。所以这章给你 5 个办法，先做一次入口审计，把自己在不在场弄清楚。</p>
+<hr />
+<h2 id="1_1">办法 1：先弄清客户在哪儿就把你比完了<a class="headerlink" href="#1_1" title="Permanent link">&para;</a></h2>
+<p><strong>做什么</strong>：把客户从"起念头"到"见你第一面"的路径拆成三段，看清哪几步已经在他自己那侧做完了。</p>
+<p><strong>怎么做</strong></p>
+<ol>
+<li>三段这样切：起念头（他把整句需求交给 AI）、初筛（他拿到第一份带名字和对比的名单）、定型（他心里排出先后，决定要不要见你）。每一段只写一句"这一刻谁在替他做决定"。</li>
+<li>每段标出一个"过去你有抓手、现在被收走"的环节：需求翻译——过去他得自己把想法拆成关键词；横向比较——过去他得自己一页页翻候选；点击进入——过去他至少得点开你。这几个环节缺了，你过去经营的位置也就失效了。</li>
+<li>把"AI 入口"再拆一层，否则动作会做错地方：你问他答的（ChatGPT、豆包、Kimi 这类）、你没问它递过来的（小红书和抖音的站内搜索与推荐、淘宝京东的商品推荐）、它替买方动手的（比价、填表、下单）。前两类现在就得盯，最后一类已经落地的部分还很窄，但留一只眼睛。"AI 入口"这四个字太粗，粗到会让人对着错误的地方使劲。</li>
+<li>圈出其中没有任何记录的那一步。不留链接参数、不进 CRM、不出现在任何归因报表里的对话，就是暗漏斗——它在展会酒局、行业群、朋友推荐里一直存在，只是现在多了一种你能回查的形态：他问 AI 的那些话，你可以自己去问一遍，看模型提到了谁、怎么转述你。</li>
+<li>这一页纸由市场部牵头写，季度更新一次。后面每一个入口动作，都对着它找自己的位置。</li>
+</ol>
+<p><strong>例子</strong>：Pew Research Center 2025 年 7 月的分析（900 名同意共享浏览行为的美国成年人）里，搜索结果出现 AI 摘要时用户点传统链接的比例是 8%，没有摘要时是 15%；摘要里被引用的链接只有 1% 被点；而当月约 88% 的摘要引用了三个以上来源【第三方验证】。</p>
+<p><strong>别踩的坑</strong>：以为这是 AI 才带来的新问题——"暗社交"这个词 2012 年就有人用了，变的是它现在启动更早、影响面更大，而且你能部分看见它了。</p>
+<h2 id="2-ai-25">办法 2：每月问 AI 25 个问题，把"在不在场"变成一张表<a class="headerlink" href="#2-ai-25" title="Permanent link">&para;</a></h2>
+<p><strong>做什么</strong>：用一套固定的买家问句，每月把"AI 现在怎么说我们"记成一张能对比的表。</p>
+<p><strong>怎么做</strong></p>
+<ol>
+<li>固定问句集：从三个地方凑 20–30 个买家原话——销售最近三个月被问得最多的问题、丢单复盘里的比较问题、售前记录里反复出现的选型疑问。不要改写成营销语言。其中核心 10 个每月测，全部问题按季度测。</li>
+<li>分三层问，各占三分之一：品类层（"做 X 的公司有哪些"）、功能层（"支持 Y 的 X 工具有哪些"）、场景层（"我们这种情况该选什么"，要带上规模、预算、行业、合规要求和现有系统这些约束条件）。场景层最接近真实决策，也最容易暴露空白。</li>
+<li>固定入口，别这个月问这三个、下个月换三个：海外至少 Google（含 AI 概览）、ChatGPT、Perplexity、Claude；中文至少豆包、DeepSeek、Kimi、腾讯元宝。客户在内容平台里比较的，把小红书、抖音的站内搜索单列一组，不要和 AI 可见度混成一条曲线。</li>
+<li>每次只记四个字段：是否提及；位置与表述（排第几，是正面、中性、负面，还是把参数价格说错了）；引用来源（官网、第三方媒体、评测站、社区，还是根本没引用）；竞品并列（同一次回答里还有谁、什么顺序）。</li>
+<li>下面三件事出现任意一件，就说明这张表该月月盯了：品牌词以外的自然流量在降，而你的排名没什么变化；销售在会面里被买方带来的 AI 对比表问住，而那份对比是怎么产生的你不知道；或者你在一次测试里看到自己被推荐，就把这件事从议程上划掉了。</li>
+<li>签结论只看稳定率：这 25 个问题里，有多少个连续三个月稳定提到你、表述正确、且有可核的第三方来源。这一个比例才是你要的结论。</li>
+</ol>
+<p><strong>例子</strong>：本书实测用 6 个真实采购问题（CRM、MES、留学中介）、5 个模型通道各问 2 遍，拿到 51 条有效答案：同一个模型连问两次，名单重合度只有 22%–56%；换一个模型问，只剩 4%–21%【本书实测】。所以单次测试里被推荐，可能只是采样噪声。</p>
+<p><strong>别踩的坑</strong>：别拿排名账的改善去证明引用账的健康——"我们搜索排名还在涨"量的是词，AI 那边量的是问题，两本账不能互相冲抵。</p>
+<h2 id="3">办法 3：找刚成交的客户做一次漏斗考古<a class="headerlink" href="#3" title="Permanent link">&para;</a></h2>
+<p><strong>做什么</strong>：找记忆还新鲜的成交客户做结构化回访，把他见你之前走过的那条路重建出来。</p>
+<p><strong>怎么做</strong></p>
+<ol>
+<li>对象不是潜在客户，是刚签约的客户：签约后 2–4 周内做，找 20–30 个，一人一次，由销售或客户成功自己问，不要外包成一张问卷。</li>
+<li>按顺序问，不要合并成一句：这件事最早从哪一刻进到你脑子里的？你第一个打开的是什么——搜索引擎、AI、某个群，还是问了某个人？你把问题交给 AI 时，原话是怎么问的（请他复述原句，不要你替他总结）？那份答案里提到了哪些名字？后来你还从哪些地方补过信息？有哪个名字是被你划掉的，为什么？</li>
+<li>记下来的不是答案，是路径。把 20–30 份答案叠起来，你会得到一份自己行业的暗漏斗地图：客户最常从哪个入口起念、名单里常出现谁、谁被划掉、他们各自看的是哪个版本的"关于我们的信息"。</li>
+<li>客户的原话原样抄进问题台账（见办法 4），不要转写成你的总结——这批原话是最好的内容选题和销售话术素材。</li>
+<li>每季度跑一轮，每轮换一批新成交客户。</li>
+</ol>
+<p><strong>例子</strong>：6sense《2025 B2B Buyer Experience Report》对全球近 4,000 名 B2B 买家的调研称，95% 的赢家已经在"第一天名单"上，约五分之四的订单被接触前已有偏好者赢得【厂商宣称】。</p>
+<p><strong>别踩的坑</strong>：别问一句"您怎么知道我们的"就收工——客户的回忆既不准确，又会被事后合理化；要问的是他当时具体打开了什么、原话是怎么说的。</p>
+<h2 id="4">办法 4：把买家的问法原话沉成一份问题台账<a class="headerlink" href="#4" title="Permanent link">&para;</a></h2>
+<p><strong>做什么</strong>：把买家问过的每一个问题按原话沉下来，做成一份能持续更新的资产。</p>
+<p><strong>怎么做</strong></p>
+<ol>
+<li>字段至少这些：问题原话、提问来源（AI 会话 / 销售通话 / 客服工单 / 抖音私信 / 社群）、提问者角色、采购阶段、是否涉及竞品比较、回答所用素材、是否影响成单。</li>
+<li>来源分两套：海外主要来自通话录音、评测站的追问、论坛帖子；中文侧额外加抖音私信、企微对话、社群提问、客服会话——它们既是问题的来源，也是承接的入口。</li>
+<li>谁记：销售和客服随手记，市场部每月收一次，去重、归类，并标出哪些问题目前没有一篇内容能回答。</li>
+<li>三个用途：内容与素材的选题源头；销售培训的真实脚本；以及明面上的漏斗数据失真时的替代观测——问题的结构和提问量的变化，往往比报表更早反映需求在移动。</li>
+<li>每月归档一次，每季度看一次结构上的变化。</li>
+</ol>
+<p><strong>例子</strong>：Superhuman 把用户原话分群，再回流成文案与功能排序【第三方·创始人署名自述】；Microsoft 的 Customer Connection 项目让工程团队直接收客户的使用习惯、痛点与建议，并据此改产品【官方口径】。</p>
+<p><strong>别踩的坑</strong>：别把它做成客服工单统计——台账值钱的地方是问题原话，把问句改写成你的分类标签，等于把最值钱的那部分删掉了。</p>
+<h2 id="5ai-ai">办法 5：分清"AI 产品"和"AI 模型"，别拿错尺子<a class="headerlink" href="#5ai-ai" title="Permanent link">&para;</a></h2>
+<p><strong>做什么</strong>：动手测之前，先分清你测的是带实时检索的 AI 产品，还是裸模型——两者量的不是一回事。</p>
+<p><strong>怎么做</strong></p>
+<ol>
+<li>产品层是客户在用的那个：ChatGPT 搜索、Perplexity、Google 的 AI 概览与 AI Mode、带检索的国产助手。它们的回答会附引用来源，这一层量的是引用——谁被引到了、引了几次。</li>
+<li>模型层是不开检索直接调接口：回答靠模型记忆，这一层量的是名单——它记得谁、排第几。手上有技术团队时，最容易顺手测的就是这一层，但它不是客户面前的那个东西。</li>
+<li>两个数字分开记，不要合成一条曲线：产品层看引用来源与表述正确率，模型层看名单重合度与稳定率。</li>
+<li>预算有限时先测产品层，那是客户手里真正在用的东西；模型层留下来当对照，用来看模型记忆里你的名单排位怎么变。</li>
+<li>对外汇报时说清测的是哪一层。拿裸模型的结果去"确认自己被推荐了"，只是自我安慰。</li>
+</ol>
+<p><strong>例子</strong>：本书实测的裸模型层 51 条有效答案里，带可点击来源的是 0 条【本书实测】；而对 AI Search Arena 24,000 余组对话、366,000 余条内嵌引用的分析显示，产品层的回答来源高度集中，新闻类引用约占 9%，且集中在少数媒体手里【官方口径·学术预印本】。</p>
+<p><strong>别踩的坑</strong>：别用一层的结论去替另一层下判断——你测的那一层，未必是客户在用的那一层。</p>
+<hr />
+<h2 id="_1">本章注意<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<ul>
+<li>上面这些点击与流量数据，讲的是"看不看得见"，不等于成交。被引用与成交之间的因果强度，公开研究里没有可引用的量化结论，本书的实测也回答不了——引用账的定位是资格指标，不是收入指标【本书判断】。</li>
+<li>同一件事的百分比在市面上版本很多（"买家在接触销售前已完成大半个采购旅程"就有从不到两成到九成多的各种说法），差异来自年份、旅程怎么定义、"接触销售"指什么、"完成"指哪一步。引用前先把口径拆开，别挑一个顺手的用【本书判断】。</li>
+<li>SparkToro 的零点击率序列跨年换过三次数据源（2016、2019 年用 Jumpshot，2024 年用 Datos），本书只按"年份 + 数据源"引用，不把不同来源的年份连成一条曲线；2026 年 1–4 月美国零点击率 68.01%【第三方验证】。</li>
+<li>Gartner 说的"2026 年传统搜索量下降 25%"是 2024 年 2 月发布的预测，不是实测结果，本书一律标"预测"，不当事实基线【官方口径·预测】。</li>
+<li>海外样本不能外推中文：Pew 的样本是 900 名美国成年人的浏览面板，6sense 的样本是英语市场的 B2B 买家；中文侧没有同等严谨的"买方用 AI 调研"量化研究，CNNIC 的生成式 AI 用户规模只能说明入口有多大，说明不了行为，而且这个数字是经厂商通稿转引的，本书未逐项核到原始报告【第三方验证·经厂商通稿转引】。</li>
+</ul>
+<h2 id="_2">本章数据来源<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>[1] Pew Research Center｜Google users are less likely to click on links when an AI summary appears in the results（900 名美国成年人；2025 年 3 月数据；8% vs 15%；摘要内链接点击 1%；88% 摘要引用三个以上来源）｜2025-07-22｜https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/｜【第三方验证】
+[2] SparkToro｜In 2026, Less than One Third of Google Searches Still Send a Click（2026 年 1–4 月美国零点击率 68.01%；2024 年 60.45%，数据源 Datos；2016 与 2019 年数据源 Jumpshot）｜2026-06-08｜https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/｜【第三方验证】
+[3] Gartner｜Gartner Predicts Search Engine Volume Will Drop 25% by 2026, Due to AI Chatbots and Other Virtual Agents｜2024-02-19｜https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents｜【官方口径·预测】
+[4] Digiday｜发布商引荐流量变化（DCN 调研与 PPA 提交英国竞争与市场管理局的证据：引荐流量中位数同比约 −10%，非新闻类约 −14%；第一页 CTR 5.1%→0.6%）｜2026｜https://digiday.com/｜【第三方验证】
+[5] 6sense｜《2025 B2B Buyer Experience Report》（全球近 4,000 名 B2B 买家；95% 赢家在"第一天名单"上；约五分之四订单由接触前偏好者赢得）｜2025-11｜https://6sense.com/science-of-b2b/buyer-experience-report-2025/｜【厂商宣称】
+[6] arXiv:2507.05301（Kai-Cheng Yang）｜AI 搜索回答的引用高度集中于少数信源（24,000 余组对话、366,000 余条内嵌引用；新闻类引用约占 9%）｜2025-07-07｜https://arxiv.org/html/2507.05301v1｜【官方口径·学术预印本，同行评议前】
+[7] Alexis C. Madrigal｜Dark Social｜The Atlantic｜2012-10-12｜https://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/｜【第三方验证】
+[8] 搜狐（智达明远通稿，转引 CNNIC）｜2026 中国 AI 营销获客三趋势与 GEO 合规红线｜2026-08-31｜https://www.sohu.com/a/1068667519_100119123｜【第三方验证·经厂商通稿转引，原始报告未逐项核验】
+[9] 本书实测 1｜候选集多模型实测（6 问题 × 5 通道 × 2 次，51 条有效答案；同题两次重合 22%–56%；跨模型重合 4%–21%；裸模型层引用数 0）｜2026-09-13｜仓库 <code>实测/实测1-候选集多模型/</code>｜【本书实测】
+[10] Microsoft｜Customer Connection Program（工程团队直收客户反馈）｜https://techcommunity.microsoft.com/blog/microsoftintuneblog/announcing-the-customer-connection-program/303626 ｜【官方口径】
+[11] First Round Review｜How Superhuman Built an Engine to Find Product-Market Fit（用户原话分群回流）｜https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/ ｜【第三方·创始人署名自述】</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="页脚" >
+        
+          
+          <a href="../00z-%E7%AF%87%E4%B8%80-%E5%85%88%E7%9C%8B%E6%B8%85%E6%88%98%E5%9C%BA/" class="md-footer__link md-footer__link--prev" aria-label="上一页: 篇一 · 先看清战场">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                上一页
+              </span>
+              <div class="md-ellipsis">
+                篇一 · 先看清战场
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../01z-%E7%AF%87%E4%BA%8C-AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E6%96%B9%E6%B3%95/" class="md-footer__link md-footer__link--next" aria-label="下一页: 篇二 · AI 时代的新方法">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                下一页
+              </span>
+              <div class="md-ellipsis">
+                篇二 · AI 时代的新方法
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      著作权归作者 Jweokk 所有 · 免费阅读与非商业性分享 · 商业用途须书面许可 · 联系 weokk2025@gmail.com
+    </div>
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/Jweokk" target="_blank" rel="noopener" title="GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.sections", "navigation.top", "navigation.footer", "search.suggest", "search.highlight", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>
