@@ -1,7 +1,7 @@
 # AI Customer Acquisition
 
-> Customer acquisition in the age of AI search and agents: GEO, the dark funnel, buyer agents, and platform dependency.
-> **Free, open, continuously updated book (Chinese).** English edition planned.
+> **Use AI to acquire customers: find them, get shortlisted, close them, and let them bring the next one.** Free, open, continuously updated.
+> Chinese edition is the source of truth; the English edition ships alongside it in [`book-en/`](book-en/).
 
 **Author: Jweokk** · Contact: weokk2025@gmail.com
 
@@ -12,36 +12,44 @@
 
 ## What this book is about
 
-**Customer acquisition is not a set of actions a company emits; it is the process of earning a place inside the buyer's decision process.**
+**Buyers have moved.** They no longer compare vendors only in a search box or on a trade-show floor — they ask an AI, let an agent shortlist for them, and read what platforms and other people say.
 
-When a buyer hands their question to an AI, what comes back is not an entry point but a conclusion. That creates a situation most companies have never faced: **the position cannot be bought.**
+The book follows the path a buyer actually walks: **find → shortlist → close → bring the next one**. Every chapter first states how buyers choose at that step, then gives methods you can copy. **24 chapters, 135 methods**, each framed the same way: what to do / how / example / pitfalls.
 
-The book covers four parts — the buyer arrives first; what you bring to be chosen; the active half of the game (outreach, lead definitions, machine buyers); and proof, boundaries and closing arguments. The finish line is the **first completed transaction or signed contract**; retention and LTV belong to a companion book.
+- **Part 1 — See the battlefield**: where buyers actually choose, and whether you are present there at all.
+- **Part 2 — New methods for the AI era**: the routes buyers just gained — AI answers, the first shortlist, what third parties say about you, whether machines can read you, whether the buyer's agent selects you.
+- **Part 3 — Upgrade the old methods with AI**: advertising, platforms, partners, content, outreach, product-led acquisition, phone and private domains. Old roads have not disappeared; the way you walk them has changed.
+- **Part 4 — Don't waste money, don't build on sand**: three sets of books, dependency checks, first-party data and compliance, who does the work, and where the red lines are.
+
+The finish line is the **first completed transaction or signed contract**; retention and LTV belong to a companion book.
 
 ## Three disciplines
 
 1. Every number is traced back to its original publisher; aggregators and vendor summaries are treated as leads only.
-2. Every source is labelled: [official] / [third-party verified] / [vendor claim] / [our judgment] / [our own measurement].
-3. Numbers whose original source cannot be located are deleted, not written.
+2. Every source carries a tier — five main tiers plus optional qualifiers: [official] / [third-party verified] / [vendor claim] / [our judgment] / [our own measurement], e.g. [official: platform-reported].
+3. Numbers whose original source cannot be located are deleted, not written. Where reputable sources disagree, the disagreement is stated.
 
-## Our own measurements
-
-The book ships its own primary evidence. Volume one includes a **multi-model candidate-set experiment**: 6 real procurement questions (3 Chinese/English pairs) × 5 model channels × 2 runs each = 51 valid answers, with method, raw data and gaps published in `实测/`. Findings: the candidate set is a **distribution**, not a short list; and Chinese-language and English-language entry points return **two nearly disjoint vendor worlds**.
+Citation works in two layers: every number in the body carries its tier at the end of the sentence, so you know on the spot how hard it is; each chapter ends with its own source list; [Appendix E](book/94-附录E-全书参考文献.md) merges and de-duplicates every source in the book into a single numbered list (314 entries) for external citation. The body carries no numeric superscripts.
 
 ## Contents
 
-Preface + 17 chapters in four parts, plus Appendix A (case index & sources), B (channel/instrument index & metric dictionary), C (version history), D (industry difference matrix). See [book/index.md](book/index.md).
+Preface + **4 part openers** + **24 chapters in four parts** + Appendix A (case index & sources, including both case-mining ledgers) / B (channel and instrument index & metric dictionary) / C (version history) / D (industry difference matrix) / E (consolidated references). Full table of contents in [book/index.md](book/index.md).
 
-## Version
+## Our own measurements
 
-Current v0.1.0 (in progress). See [CHANGELOG](CHANGELOG.md).
+The book ships its own primary evidence. **A multi-model candidate-set experiment**: 6 real procurement questions (3 Chinese/English pairs) × 5 model capability tiers (A–E) × 2 runs each = 51 valid answers, with method, raw data and gaps published in `实测/`. Findings: the candidate set is a **distribution**, not a short list; and Chinese and English entry points return **two nearly disjoint vendor worlds**.
+
+## Version & size
+
+Current **v0.2.5**. 118,581 Chinese characters (body 96,981 + part openers 1,170 + appendices 18,680), 238-page PDF. See [CHANGELOG](CHANGELOG.md).
 
 ## License
 
 Copyright © Jweokk. Free to read and share non-commercially; commercial use requires written permission. Issues and PRs welcome — every correction is traced back to its source and recorded in the version history.
 
----
+## Other books by the same author
 
-## 中文
-
-[中文说明见 README.zh.md](README.zh.md)。
+- [AI-Native Organization](https://aiorg.fly2ai.top) — growing the AI gene into the organization itself
+- [A Life Guide for the AI Era](https://ailife.fly2ai.top) — surviving and choosing in the age of AI
+- [AI Customer Lifecycle Management](https://ai-customer-growth.fly2ai.top) — after the customer arrives: retention, repeat purchase, LTV
+- [The shelf](https://ai.fly2ai.top) — all open books
