@@ -7,7 +7,7 @@
 流程：
     1. VERSION patch+1（或 --version 指定完整版本号）
     2. CHANGELOG.md 头部插入新版本条目
-    3. book/14-附录C-版本历史与更新说明.md 追加条目
+    3. book/92-附录C-版本历史与更新说明.md 追加条目
     4. 重新生成整本 PDF（tools/build_pdf.py）
     5. mkdocs build（站点静态文件）
     6. git commit + push main（GitHub Actions 会自动部署 Pages）
@@ -23,7 +23,7 @@ from datetime import datetime
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VERSION_FILE = os.path.join(BASE, "VERSION")
 CHANGELOG = os.path.join(BASE, "CHANGELOG.md")
-APPENDIX_C = os.path.join(BASE, "book", "21-附录C-版本历史与更新说明.md")
+APPENDIX_C = os.path.join(BASE, "book", "92-附录C-版本历史与更新说明.md")
 MARK_FILE = os.path.join(BASE, ".last-update.json")
 
 def bump_version(current, patch_only=True):
@@ -89,8 +89,12 @@ def main():
     subprocess.run([sys.executable, "tools/build_pdf.py", new_version], cwd=BASE, check=True, timeout=300)
     subprocess.run([sys.executable, "tools/build_pdf.py", new_version, "--lang", "en"], cwd=BASE, check=True, timeout=300)
 
-    # 5. mkdocs build
-    subprocess.run([os.path.join(BASE, ".venv", "bin", "mkdocs"), "build"], cwd=BASE, check=True, timeout=300)
+    # 5. mkdocs build（本仓 .venv 不装 mkdocs：站点由 push 后的 GitHub Actions 重建，缺了就跳过）
+    mkdocs_bin = os.path.join(BASE, ".venv", "bin", "mkdocs")
+    if os.path.exists(mkdocs_bin):
+        subprocess.run([mkdocs_bin, "build"], cwd=BASE, check=True, timeout=300)
+    else:
+        print("跳过本地 mkdocs build（站点由 push 后的 GitHub Actions 重建）")
 
     # 6. git commit + push
     subprocess.run(["git", "add", "-A"], cwd=BASE, check=True)
@@ -101,7 +105,15 @@ def main():
     else:
         print("git push OK")
 
-    # 7. 完成标记
+    # 7. 清 Cloudflare 边缘缓存（站点目录被 CF 缓存 4 小时；不清理则边缘继续发旧 PDF/页面）
+    purge = os.path.expanduser("~/.hermes/scripts/purge_book_cache.py")
+    if os.path.exists(purge):
+        r = subprocess.run([sys.executable, purge, BASE], capture_output=True, text=True, timeout=120)
+        print((r.stdout or "").strip() or "purge_book_cache：无输出")
+    else:
+        print("WARN：找不到 purge_book_cache.py，跳过清缓存")
+
+    # 8. 完成标记
     with open(MARK_FILE, "w") as f:
         json.dump({"date": today, "version": new_version, "title": args.title}, f, ensure_ascii=False)
 
