@@ -32,9 +32,9 @@ LANGS = {
         "out": ".",         # repo 根目录，仅 GitHub 分发（域名只面向中文读者）
         "fname": "ai-customer-acquisition-en",
         "title": "AI Customer Acquisition",
-        "subtitle": "GEO, the Dark Funnel and Customer Acquisition in the Age of Agents",
+        "subtitle": "Use AI to acquire customers: find them, get shortlisted, close them, and let them bring the next one",
         "meta": "Jweokk · {today} · v{version}",
-        "blurb": "When a buyer hands their question to an AI, what comes back is not an entry point but a conclusion.<br>That position cannot be bought.<br>This book explains how buyers arrive first, what you bring to be chosen, how the active half works — and how to prove it did.",
+        "blurb": "Buyers have moved: they ask an AI, let an agent shortlist for them, and read what platforms and other people say.<br>This book follows the path a buyer actually walks — find, shortlist, close, bring the next one — with 135 methods you can copy, every number traced to its original source.",
         "disclaimer": "Copyright © Jweokk. Free for reading and non-commercial sharing; commercial use requires prior written permission.<br>Contact: weokk2025@gmail.com",
         "font": '"DejaVu Sans", "Noto Sans", sans-serif',
         "toc_title": "Contents",
