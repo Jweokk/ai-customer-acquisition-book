@@ -1,7 +1,7 @@
 # AI 获客 (AI Customer Acquisition)
 
 > An open-source, continuously updated book on customer acquisition in the age of AI search and agents: GEO / answer engines, buyer agents and platform dependency.
-> 一本免费公开、持续更新的开源书：客户在问 AI，你在答案里吗——AI 搜索、Agent 采购、平台推荐与依赖对冲。
+> 一本免费公开、持续更新的开源书：用 AI 拓客：找到、选中、谈成、带走——AI 搜索、Agent 采购、平台推荐与依赖对冲。
 
 Key thesis: 客户现在不只在搜索框和展会上挑供应商了——他们开始问 AI、让 Agent 去筛、看平台推的和别人说的。本书讲的是在这几个新地方，还有那些老地方，怎么把客户拿到手。
 (Acquisition now happens where the buyer asks an AI, hands selection to an agent, or trusts a platform's push — not only in a search box or a trade show.)
