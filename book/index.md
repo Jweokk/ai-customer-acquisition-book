@@ -1,6 +1,6 @@
 # AI 获客（AI Customer Acquisition）
 
-> 客户换地方挑供应商了 · 免费公开 · 持续更新
+> 客户在问 AI，你在答案里吗 · 免费公开 · 持续更新
 
 **作者：Jweokk** · 联系邮箱：weokk2025@gmail.com
 

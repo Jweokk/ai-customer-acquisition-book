@@ -1,6 +1,6 @@
 [
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "CN1",
   "rep": 1,
   "chars": 1622,
@@ -10,7 +10,7 @@
   "src": true
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "CN2",
   "rep": 1,
   "chars": 1602,
@@ -20,7 +20,7 @@
   "src": false
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "EN1",
   "rep": 1,
   "chars": 3571,
@@ -30,7 +30,7 @@
   "src": false
  },
  {
-  "model": "agnes",
+  "model": "E",
   "qid": "CN2",
   "rep": 1,
   "chars": 835,
@@ -40,7 +40,7 @@
   "src": true
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "CN3",
   "rep": 1,
   "chars": 1466,
@@ -50,7 +50,7 @@
   "src": true
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "EN2",
   "rep": 1,
   "chars": 4489,
@@ -60,7 +60,7 @@
   "src": false
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "EN3",
   "rep": 1,
   "chars": 4176,
@@ -70,7 +70,7 @@
   "src": false
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "CN1",
   "rep": 2,
   "chars": 1568,
@@ -80,7 +80,7 @@
   "src": false
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "CN2",
   "rep": 2,
   "chars": 1645,
@@ -90,7 +90,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "EN2",
   "rep": 1,
   "chars": 3846,
@@ -100,7 +100,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "CN1",
   "rep": 2,
   "chars": 1519,
@@ -110,7 +110,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "EN3",
   "rep": 1,
   "chars": 3907,
@@ -120,7 +120,7 @@
   "src": true
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "EN1",
   "rep": 2,
   "chars": 3603,
@@ -130,7 +130,7 @@
   "src": false
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "CN3",
   "rep": 2,
   "chars": 1476,
@@ -140,7 +140,7 @@
   "src": false
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "EN2",
   "rep": 2,
   "chars": 4411,
@@ -150,7 +150,7 @@
   "src": true
  },
  {
-  "model": "gemini-2.5f",
+  "model": "C",
   "qid": "EN3",
   "rep": 2,
   "chars": 4483,
@@ -160,7 +160,7 @@
   "src": true
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "CN2",
   "rep": 2,
   "chars": 1499,
@@ -170,7 +170,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "EN2",
   "rep": 2,
   "chars": 3841,
@@ -180,7 +180,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "EN3",
   "rep": 2,
   "chars": 4128,
@@ -190,7 +190,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "CN1",
   "rep": 1,
   "chars": 1374,
@@ -200,7 +200,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "CN2",
   "rep": 1,
   "chars": 1372,
@@ -210,7 +210,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "CN1",
   "rep": 1,
   "chars": 1657,
@@ -220,7 +220,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "CN3",
   "rep": 1,
   "chars": 1270,
@@ -230,7 +230,7 @@
   "src": false
  },
  {
-  "model": "agnes",
+  "model": "E",
   "qid": "CN1",
   "rep": 1,
   "chars": 751,
@@ -240,7 +240,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "EN1",
   "rep": 1,
   "chars": 3076,
@@ -250,7 +250,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "CN2",
   "rep": 1,
   "chars": 1514,
@@ -260,7 +260,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "EN2",
   "rep": 1,
   "chars": 4424,
@@ -270,7 +270,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "EN3",
   "rep": 1,
   "chars": 2302,
@@ -280,7 +280,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "CN3",
   "rep": 1,
   "chars": 1447,
@@ -290,7 +290,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "CN1",
   "rep": 2,
   "chars": 1400,
@@ -300,7 +300,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "CN2",
   "rep": 2,
   "chars": 1368,
@@ -310,7 +310,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "CN3",
   "rep": 2,
   "chars": 1309,
@@ -320,7 +320,7 @@
   "src": true
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "EN1",
   "rep": 2,
   "chars": 2785,
@@ -330,7 +330,7 @@
   "src": false
  },
  {
-  "model": "agnes",
+  "model": "E",
   "qid": "EN1",
   "rep": 2,
   "chars": 1170,
@@ -340,7 +340,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "EN2",
   "rep": 2,
   "chars": 4339,
@@ -350,7 +350,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "EN1",
   "rep": 2,
   "chars": 3269,
@@ -360,7 +360,7 @@
   "src": false
  },
  {
-  "model": "gpt-5.4",
+  "model": "B",
   "qid": "EN3",
   "rep": 2,
   "chars": 3392,
@@ -370,7 +370,7 @@
   "src": true
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "CN3",
   "rep": 2,
   "chars": 1466,
@@ -380,7 +380,7 @@
   "src": false
  },
  {
-  "model": "gemma-4-31b",
+  "model": "D",
   "qid": "EN1",
   "rep": 1,
   "chars": 3240,
@@ -390,7 +390,7 @@
   "src": false
  },
  {
-  "model": "deepseek",
+  "model": "A",
   "qid": "EN3",
   "rep": 2,
   "chars": 263,

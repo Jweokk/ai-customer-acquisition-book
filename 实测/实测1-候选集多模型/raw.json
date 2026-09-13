@@ -27,7 +27,7 @@
   },
   "rep": 1,
   "qid": "CN1",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -57,7 +57,7 @@
   },
   "rep": 1,
   "qid": "CN2",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -87,7 +87,7 @@
   },
   "rep": 1,
   "qid": "EN1",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -103,7 +103,7 @@
   },
   "rep": 1,
   "qid": "CN2",
-  "model": "agnes"
+  "model": "E"
  },
  {
   "ok": true,
@@ -133,7 +133,7 @@
   },
   "rep": 1,
   "qid": "CN3",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -163,7 +163,7 @@
   },
   "rep": 1,
   "qid": "EN2",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -193,7 +193,7 @@
   },
   "rep": 1,
   "qid": "EN3",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -223,7 +223,7 @@
   },
   "rep": 2,
   "qid": "CN1",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -253,7 +253,7 @@
   },
   "rep": 2,
   "qid": "CN2",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -269,7 +269,7 @@
   },
   "rep": 1,
   "qid": "EN2",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
@@ -285,7 +285,7 @@
   },
   "rep": 2,
   "qid": "CN1",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
@@ -301,7 +301,7 @@
   },
   "rep": 1,
   "qid": "EN3",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
@@ -331,7 +331,7 @@
   },
   "rep": 2,
   "qid": "EN1",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -361,7 +361,7 @@
   },
   "rep": 2,
   "qid": "CN3",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -391,7 +391,7 @@
   },
   "rep": 2,
   "qid": "EN2",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -421,7 +421,7 @@
   },
   "rep": 2,
   "qid": "EN3",
-  "model": "gemini-2.5f"
+  "model": "C"
  },
  {
   "ok": true,
@@ -437,7 +437,7 @@
   },
   "rep": 2,
   "qid": "CN2",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
@@ -453,7 +453,7 @@
   },
   "rep": 2,
   "qid": "EN2",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
@@ -469,147 +469,147 @@
   },
   "rep": 2,
   "qid": "EN3",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
   "text": "可以，按你们的情况先快速判断一下：\n\n- **公司规模**：50 人\n- **预算**：**2000 元/月以内**\n- **目标**：买一套 **CRM 客户关系管理系统**\n- **推测需求**：大概率需要销售线索、客户管理、商机跟进、销售流程、报表，可能还会希望有企业微信/钉钉、表单、审批、自动化等能力。\n\n在这个预算下，**适合优先看国产 SaaS CRM 的中小企业版本**，以及一些“低代码 + CRM”方案。  \n如果是 50 人都要买正式席位，**2000 元/月预算是比较紧的**，所以要重点关注：\n\n1. **是否按使用人数收费**\n2. **是否有基础版/团队版**\n3. **是否能只给销售团队购买席位**\n4. **是否把营销、客服、BI 等模块拆开收费**\n5. **实施和培训是否额外收费**\n\n---\n\n## 一、优先推荐的几个供应商\n\n### 1) 纷享销客\n**适合**：B2B 销售流程较重、需要规范销售管理的团队\n\n**优点**\n- 在国内 CRM 里比较主流，偏销售管理\n- 线索、客户、联系人、商机、拜访、销售过程管理比较完整\n- 对销售团队管理、过程追踪、报表分析支持较好\n- 通常适合 SaaS、制造、企业服务等 ToB 公司\n\n**可能的不足**\n- 对 50 人公司来说，**价格不一定是最低**\n- 某些高级功能、定制、集成可能要更高版本\n- 实施复杂度可能比轻量 CRM 高\n\n**预算匹配度**\n- 如果你们是“**只有销售/客户成功团队十几二十人需要用**”，有机会控制在预算附近\n- 如果 50 人全员上，可能会偏紧甚至超预算\n\n---\n\n### 2) 销售易\n**适合**：希望系统成熟、功能完整、未来可扩展的公司\n\n**优点**\n- 国内知名 CRM 厂商，产品成熟度高\n- 销售管理、客户管理、流程配置、移动端能力较强\n- 适合对 CRM 有长期规划的公司\n\n**可能的不足**\n- 通常**价格不算便宜**\n- 中小企业如果预算严格，可能会觉得门槛略高\n- 部分功能偏企业级，轻量使用时性价比未必最高\n\n**预算匹配度**\n- **中等偏低**\n- 更适合你们先询价，看是否有 SMB 套餐；如果没有，很可能超出 2000 元/月\n\n---\n\n### 3) Zoho CRM（中国版/国际版都可关注）\n**适合**：预算敏感、希望功能全面、接受标准化产品的团队\n\n**优点**\n- 通常性价比不错\n- CRM 基础能力完整：线索、客户、联系人、商机、任务、自动化、报表\n- 生态比较大，可扩展邮件营销、客服、表单、自动化\n- 对中小企业比较友好\n\n**可能的不足**\n- 某些本地化能力、国内生态连接（如企业微信/本地审批习惯）要仔细确认\n- 实施和使用体验上，可能需要团队有一定系统化使用习惯\n- 国际版和中国版能力/价格/数据合规可能不完全相同，要分开看\n\n**预算匹配度**\n- **较高**\n- 在你们预算内，往往是比较值得优先评估的一家\n\n---\n\n### 4) 悟空 CRM\n**适合**：预算非常敏感、希望先快速上线的中小团队\n\n**优点**\n- 市场上常被认为价格相对亲民\n- 基础 CRM 功能通常够用\n- 对中小企业友好，上手门槛较低\n- 如果你们先解决“",
   "rep": 1,
   "qid": "CN1",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "可以，先给您一个**适合华东地区、汽车零部件制造企业（年产值 5–10 亿）上 MES 的服务商推荐框架**。  \n这个体量的企业，通常不是简单买一套“软件”，而是要找**既懂离散制造、又懂汽车行业质量追溯、还能落地集成 ERP/设备/仓储/条码 的实施商**。\n\n---\n\n# 一、先说结论：建议优先看这几类厂商\n\n对于您这种规模，我建议把候选分成 4 类：\n\n## 1）国际型 / 中高端平台型\n适合：集团化、工厂标准化要求高、预算相对充足、未来要多基地复制。\n\n可关注：\n- **西门子 Siemens Opcenter**\n- **罗克韦尔 Rockwell FactoryTalk MES**\n- **达索 DELMIA Apriso**\n- **SAP Digital Manufacturing / SAP ME（如已有 SAP 体系）**\n\n**优点**\n- 平台成熟\n- 多工厂复制能力强\n- 质量、追溯、工艺、设备集成能力强\n- 适合汽车行业复杂场景\n\n**缺点**\n- 成本高\n- 实施周期长\n- 对企业内部 IT/业务团队要求高\n- 很多项目最终依赖本地集成商落地\n\n**适合您吗**\n- 如果您是 Tier1/Tier2，客户要求严格，且未来有多工厂推广计划，可以纳入候选\n- 如果只是先做单工厂提效，未必是性价比最高\n\n---\n\n## 2）国内头部工业软件 / 制造运营平台厂商\n适合：希望在成本、响应速度、本地化、二开灵活性之间取得平衡。\n\n可关注：\n- **鼎捷**\n- **赛意信息**\n- **宝信软件**\n- **中控技术（部分离散场景也在做）**\n- **用友 / 金蝶生态内的 MES 团队或合作商**\n- **能科科技**\n- **黑湖科技（更偏轻量、云化）**\n- **摩尔元数 / 数字化工厂类厂商**\n- **柠檬豆、寄云、兰光等生态型厂商/集成商（需具体甄别）**\n\n其中更建议优先了解的：\n\n### 鼎捷\n在长三角制造业基础很深，**离散制造、汽配、机械加工、装配行业经验较多**。  \n如果您本身 ERP 体系和鼎捷生态接近，或者希望找一家**本地化强、顾问多、实施经验比较足**的厂商，值得重点看。\n\n### 赛意信息\n强项在**制造数字化、SAP 周边、MES/APS/WMS/设备集成**。  \n如果您企业已经有 SAP、Oracle 或较成熟的信息化基础，赛意这类厂商比较适合。\n\n### 宝信软件\n更偏大型制造业、平台能力较强。  \n如果您有较强的集团化、工业互联网平台诉求，也可纳入。\n\n### 能科科技\n在**数字化制造、PLM/MOM/MES 一体化**方面有一定能力。  \n如果您重视工艺、BOP/BOM/BOR、工艺制造协同，可以看看。\n\n### 黑湖科技\n偏**轻量化、快速上线、移动化、透明工厂**。  \n如果您先想做一个“能快速见效”的 MES/生产协同系统，黑湖这类可以看看，但要注意它是否能满足**汽车零部件行业的深度质量追溯、工艺防错、SPC、批次/序列号管理**要求。\n\n---\n\n## 3）汽车行业垂直型实施商 / 本地集成商\n适合：您更看重“真正落地”，尤其是：\n- 机加工 + 装配混合场景\n- 条码/RFID 追溯\n- 设备联网\n- 防错防漏\n-",
   "rep": 1,
   "qid": "CN2",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "对于一个 50 人的 SaaS 公司，每月 2000 元的预算（年预算 2.4 万元）在 CRM 领域属于**中低预算**。\n\n由于你们本身是 SaaS 公司，团队对软件的易用性、API 开放程度和自动化能力会有较高要求。在这种预算下，购买昂贵的企业级软件（如 Salesforce 或 纷享销客的高级版）是不现实的，建议关注**“轻量级 CRM”**或**“按需付费的 SaaS 平台”**。\n\n以下是为您推荐的三个不同方向的方案：\n\n### 方案一：极致性价比与灵活性（低代码/多维表格）\n如果你们的业务流程还在快速迭代，不需要极其复杂的销售漏斗，建议使用**多维表格**。\n\n*   **推荐产品：飞书多维表格 /  Airtable / Notion**\n*   **理由：** \n    *   **成本：** 飞书多维表格对于 50 人规模的公司，基础功能几乎是**免费**的，或者仅需极低的订阅费。\n    *   **灵活性：** 你们可以像搭积木一样，在 1 小时内搭建出符合自己业务的客户管理表、线索跟进表、合同管理表。\n    *   **协同：** 既然是 SaaS 公司，大概率在使用飞书或 Slack，集成度极高，可以直接在聊天窗口推送客户更新提醒。\n*   **适用场景：** 早期阶段，追求快速部署，不需要复杂的自动化工作流。\n\n### 方案二：专业轻量级 CRM（标准 SaaS 模式）\n如果您需要标准的 CRM 功能（如：线索 $\\rightarrow$ 机会 $\\rightarrow$ 客户 $\\rightarrow$ 合同 $\\rightarrow$ 开票），且希望开箱即用。\n\n*   **推荐产品：**\n    *   **国内：** **销售易 (轻量版)** 或 **Zoho CRM (标准版)**\n    *   **国外（如面向海外市场）：** **HubSpot (Starter)** 或 **Pipedrive**\n*   **理由：**\n    *   **Zoho CRM：** 全球性价比之王。它的标准版价格非常亲民，功能覆盖全面，支持高度自定义，且有成熟的 API 接口。\n    *   **HubSpot：** 它的免费版非常强大，Starter 版价格较低。对于 SaaS 公司来说，HubSpot 的“营销 $\\rightarrow$ 销售 $\\rightarrow$ 客户成功”链路闭环做得最好。\n    *   **Pipedrive：** 专注于“销售管道”管理，界面极其直观，非常适合销售团队快速上手。\n*   **预算预估：** 50 人全员开通可能超出预算，但建议**仅为销售和运营人员（如 10-15 人）购买付费账号**，其余人员使用免费版或查看权限，这样可以将月费控制在 2000 元以内。\n\n### 方案三：开源/自建方案（适合技术驱动型 SaaS 公司）\n既然你们是 SaaS 公司，内部有开发资源，可以考虑部署开源 CRM。\n\n*   **推荐产品：Odoo (Community Edition) 或 SuiteCRM**\n*   **理由：**\n    *   **成本：** 软件本身免费，只需支付服务器成本（每月几百元）。\n    *   **掌控力：** 数据完全在自己手里，可以根据公司需求进行二次开发。\n    *   **扩展性：** Odoo 不仅是 CRM，还包含进销存、财务、项目管理，可以随着公司成长而扩展。\n*   **适用场景：** 有 1-2 名开发人员能负责维护，且对数据隐私要求极高。\n\n---\n\n### 总结与选择建议\n\n| 需求维度 | 方案一：多维表格 (飞书/Airtable) | 方案二：轻量级 SaaS (Zoho/HubSpot) | 方案三：开源自建 (Odoo) |\n| :--- | :--- | :--- | :--- |\n| **部署速度** | 极快",
   "rep": 1,
   "qid": "CN1",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
   "text": "可以，但先说结论：**别只看“名气”，要重点看顾问是否靠谱、申请方案是否透明、文书是否规范、合同是否清楚**。留学中介差异非常大，同一家机构不同顾问水平也可能差很多。\n\n如果孩子是**明年高考后再决定出国**，时间上是可以规划的，但要尽快明确方向：是走**本科直申**，还是**国际大一/预科/社区大学转学**，不同国家路径差别很大。\n\n## 一、国内比较常见、知名度较高的留学机构\n以下是市场上较常被家长接触到的机构类型，仅供你们做初筛，不代表绝对优劣：\n\n### 1. 传统大型机构\n这类机构网点多、体系相对成熟，适合先做咨询对比。\n- **新东方前途出国**\n- **启德教育**\n- **金吉列留学**\n- **新通教育**\n- **IDP教育**\n- **威久留学**\n- **澳际教育**\n- **津桥留学**\n- **啄木鸟教育**（部分国家/项目较有针对性）\n- **指南者留学**（研究生申请口碑更常见，本科也可了解）\n\n### 2. 专做部分国家/地区或高端申请的机构\n如果你们目标很明确，比如只申英国、香港、新加坡、澳洲、美国，往往可以找更聚焦的团队。\n- 英国/香港/新加坡方向：可重点比较**启德、新东方前途、IDP、新通**\n- 澳洲方向：**IDP**比较常被提及\n- 美国本科方向：可多看一些**专做美本**的机构或工作室\n- 日本/韩国/欧洲小语种方向：建议找**专门做该国家线**的机构，不一定非要全国大牌\n\n### 3. 小而精的工作室/顾问团队\n优点：\n- 顾问可能更细致\n- 服务更个性化\n- 文书沟通更直接\n\n风险：\n- 规模小，稳定性一般\n- 顾问离职风险高\n- 合同、退费、后续支持可能不如大机构规范\n\n所以如果考虑工作室，一定要重点查：\n- 成立时间\n- 顾问背景\n- 过往案例是否真实\n- 合同是否清晰\n- 是否能对接已录取学生家长\n\n---\n\n## 二、怎么选，比“推荐哪家”更重要\n我更建议你们按下面的标准筛选 3–5 家去面谈。\n\n### 1. 先看顾问，不只看机构牌子\n同一家机构里，A顾问和B顾问可能差别非常大。重点问：\n- 顾问做了几年\n- 主要做哪些国家和学校\n- 有没有和你孩子情况类似的案例\n- 是“销售顾问”还是“后期申请顾问”亲自带\n- 文书是谁写，能不能直接和文书老师沟通\n\n### 2. 看方案是否真实\n警惕一上来就说：\n- “你这个背景冲世界前30没问题”\n- “我们和某大学有合作，基本稳录”\n- “高考后临时准备也能申顶尖名校”\n\n靠谱顾问通常会：\n- 把冲刺、匹配、保底分开\n- 讲清楚语言成绩、标化、活动背景的短板\n- 告诉你哪些学校时间上来不及\n- 给出多路径方案\n\n### 3. 看文书是否规范\n一定要问清：\n- 文书是否原创\n- 能否看到往年样例\n- 是否允许学生深度参与修改\n- 是否存在“套模板”“包装过度”\n\n这个非常重要。现在很多学校对材料真实性查得很严。\n\n### 4. 看合同\n合同里必须看：\n- 服务内容具体到什么程度\n- 申请几所",
   "rep": 1,
   "qid": "CN3",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "\n\n以下是几个适合 50 人 SaaS 公司、月预算 2000 元以内的 CRM 供应商推荐：\n\n---\n\n**1. 纷享销客**\n- 国内头部 CRM，面向中小企业有灵活定价\n- 基础版/标准版月费约 100~300 元/人，50 人可谈企业套餐\n- 支持销售全流程管理、线索跟进、数据分析\n- 优点：本土化好，中文支持完善，实施服务成熟\n\n**2. 销售易**\n- 主打移动化 CRM，界面友好\n- 基础版月费约 80~200 元/人，50 人套餐可控制在 2000 元内\n- 支持客户管理、商机管理、报表分析\n- 优点：移动端体验好，适合外勤销售团队\n\n**3. Zoho CRM**\n- 国际品牌，性价比高，免费版可试用 3 用户\n- 标准版约 120 元/人/月，50 人约 6000 元/月（可先选小套餐）\n- 功能丰富：自动化工作流、AI 助手、多语言支持\n- 优点：国际化程度高，适合有出海需求的 SaaS 公司\n\n**4. HubSpot CRM**\n- 免费版支持最多 100 个联系人，基础付费版约 50 美元/月\n- 50 人团队可先使用免费版 + 逐步升级\n- 优点：界面简洁，营销/销售/客服一体化，生态完善\n\n**5. 简道云 / 明道云**\n- 零代码平台，可自定义搭建 CRM 系统\n- 按用户数收费，50 人月费约 1000~2000 元\n- 优点：高度灵活，可根据业务需求定制字段和流程\n\n---\n\n**建议：**\n- 如果侧重**销售流程管理**，优先考虑纷享销客或销售易\n- 如果考虑**国际化/多语言**，Zoho CRM 或 HubSpot 更合适\n- 如果需要**高度定制**，简道云/明道云是不错选择\n\n建议先申请各家的免费试用，根据实际体验再做决定。",
   "rep": 1,
   "qid": "CN1",
-  "model": "agnes"
+  "model": "E"
  },
  {
   "ok": true,
   "text": "Here are a few solid CRM options for a 50-person SaaS company on a **sub-$300/month** budget, depending on how many users need full CRM access.\n\n## Best fits\n\n### 1. **HubSpot CRM**\n- **Why consider it:** Very easy to use, strong for startups/SaaS, good marketing + sales alignment.\n- **Pricing:** Free CRM available; paid Sales Hub tiers can get expensive if many users need advanced features.\n- **Best for:** Teams that want a simple, polished CRM and can start lean.\n- **Watch out for:** Costs can rise quickly as you add automation/reporting features.\n\n### 2. **Pipedrive**\n- **Why consider it:** Sales-focused, intuitive pipeline management, easy adoption.\n- **Pricing:** Typically affordable per user; often workable under $300/month for a modest sales team.\n- **Best for:** SaaS companies with a dedicated sales process and need for pipeline visibility.\n- **Watch out for:** Less robust marketing/service functionality than broader platforms.\n\n### 3. **Zoho CRM**\n- **Why consider it:** Strong value for money, broad feature set, automation, reporting, integrations.\n- **Pricing:** Usually one of the most budget-friendly options for growing teams.\n- **Best for:** Companies wanting more features per dollar.\n- **Watch out for:** UI/UX can feel less polished than HubSpot or Pipedrive.\n\n### 4. **Freshsales**\n- **Why consider it:** Good balance of usability, built-in communication tools, automation, and reporting.\n- **Pricing:** Competitive, often suitable for SMB budgets.\n- **Best for:** Teams that want an all-in-one sales CRM without enterprise pricing.\n- **Watch out for:** Some advanced features may require higher tiers.\n\n### 5. **Close**\n- **Why consider it:** Built for inside sales teams, especially strong if your reps do a lot of calling/emailing.\n- **Pricing:** Can fit smaller sales teams, but may exceed budget if many seats are needed.\n- **Best for:** High-velocity outbound SaaS sales.\n- **Watch out for:** Better for sales execution than broad company-wide CRM use.\n\n## My practical recommendation\n\nIf you need to stay **strictly under $300/month**, I’d shortlist:\n\n- **Zoho CRM** — best overall value\n- **Pipedrive** — best for ease of use and sales pipeline management\n- **Freshsales** — best middle ground\n- **HubSpot** — best if you can start free/light and upgrade carefully\n\n## Important budget reality check\nFor a **50-person company**, your total headcount matters less than **how many paid CRM seats** you need.\n\nIf:\n- only **5–10 sales users** need access, many CRMs can fit under $300/month\n- **20+ users** need paid seats, HubSpot/Close may get expensive fast\n- you need **marketing automation, customer support, and CRM in one**, costs can rise quickly\n\n## Suggested picks by scenario\n\n- **Lowest cost / most features:** **Zoho CRM**\n- **Fastest team adoption:** **Pipedrive**\n- **Best free starting point:** **HubSpot CRM**\n- **Best for outbound sales reps:** **Close**\n- **Balanced SMB option:** **Freshsales**\n\nIf you want, I can turn this into a **side-by-side comparison table with estimated monthly cost for 5, 10, and 20 users**.",
   "rep": 1,
   "qid": "EN1",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "针对年产值 5-10 亿、位于华东地区的汽车零部件制造企业，您处于一个非常典型的“中型规模”阶段。这个阶段的企业在选择 MES（制造执行系统）时，最核心的考量点通常不是“功能是否齐全”（因为绝大多数厂商都能做），而是**“行业适配度”、“实施交付能力”以及“后续的维护成本”**。\n\n汽车行业有极其严格的 IATF 16949 标准、复杂的 BOM 管理、严格的追溯要求（单件追溯）以及与 OEM（主机厂）的协同需求。\n\n根据您的规模和地域，我将服务商分为三类推荐，您可以根据自身的数字化成熟度和预算进行选择：\n\n### 第一类：深耕汽车行业的专业垂直厂商（推荐首选）\n这类厂商的产品内置了汽车行业的业务逻辑（如：模具管理、批次追溯、SPC 统计过程控制、防错 Poka-Yoke），实施周期短，沟通成本低。\n\n1.  **赛意信息 (Siyi)**\n    *   **特点：** 国内领先的工业软件供应商，在汽车零部件领域有极深积累，很多大型 Tier 1 供应商在用。\n    *   **优势：** 方案成熟，能够处理复杂的工艺流程，支持大规模并发，交付能力强。\n2.  **摩尔线程/或者类似的行业细分方案商（如：某些专注压铸、冲压、塑料件的专业MES）**\n    *   **建议：** 如果您的工艺非常特殊（例如纯精密铸造或纯电子件），建议寻找在该细分领域有 3-5 个成功案例的专业小厂。\n\n### 第二类：综合性工业软件巨头（适合有更高集成需求的企业）\n如果您计划同步上 ERP、PLM，或者希望构建一个完整的数字化工厂，选择综合性厂商可以降低接口对接的风险。\n\n1.  **用友 (Yonyou) / 金蝶 (Kingdee)**\n    *   **特点：** 依托强大的 ERP 基础，提供配套的 MES 模块或生态合作伙伴方案。\n    *   **优势：** 财务与生产数据打通极其顺畅，在华东地区有极强的售后支持网络。\n2.  **西门子 (Siemens) / 达索 (Dassault)**\n    *   **特点：** 全球顶级工业软件。\n    *   **优势：** 如果您的设备大部分是进口的，且追求极致的数字化双胞胎（Digital Twin）或高度自动化，可以考虑。但对于 5-10 亿规模的企业，成本较高且实施周期极长，除非有极强的技术团队支撑，否则不建议轻易尝试。\n\n### 第三类：灵活的数字化平台/中型软件公司（性价比之选）\n适合希望快速上线、需求变动频繁、且预算相对可控的企业。\n\n1.  **一些深耕长三角（苏锡常、宁波、温州）的本土软件公司**\n    *   **特点：** 响应速度极快，支持高度定制。\n    *   **优势：** 能够快速根据您的实际车间情况调整功能，且实施人员可以常驻现场。\n\n---\n\n### 给您的决策建议（避坑指南）\n\n在筛选这些服务商时，请务必在招标或调研中重点询问以下四个问题：\n\n1.  **“能否实现单件/批次的全生命周期追溯？”**\n    *   汽车行业最怕召回。系统必须能快速通过一个零件号，反查出当时的原材料批次、操作工、设备参数、检测数据。\n2.  **“如何对接我的设备（PLC/传感器）？”**\n    *   很多 MES 变成了“电子记录本”（靠人工输入）。真正的 MES 应该能自动采集设备数据。询问他们支持哪些协议（OPC UA, MQTT 等）。\n3.  **“是否有同类规模、同类产品的成功案例？”**\n    *   要求对方带您去实地参观一个年产值 5-10 亿的汽车零部件工厂，看系统是否",
   "rep": 1,
   "qid": "CN2",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
   "text": "Here are a few **MES providers** that are worth looking at for an **East China auto parts manufacturer** in the **$50–100M revenue range**. I’ll focus on vendors that are either strong in China, strong in automotive/discrete manufacturing, or practical for a mid-sized company.\n\n## 1. Siemens Opcenter\n**Best for:** Automotive, multi-plant standardization, complex quality/traceability needs\n\n**Why consider it**\n- Strong reputation in **discrete manufacturing** and **automotive**\n- Good support for **traceability**, **quality management**, **production scheduling**, and **integration with ERP/PLM/automation**\n- Suitable if you want a more standardized “global-class” manufacturing IT stack\n\n**Pros**\n- Strong functionality depth\n- Good for regulated or quality-sensitive production\n- Scales well across plants\n\n**Cons**\n- Can be expensive\n- Implementation can be relatively heavy for a mid-sized company\n\n**Fit for you**\n- Good fit if you supply major OEMs/Tier 1s and need stronger digital traceability and process control\n\n---\n\n## 2. Rockwell Automation / Plex MES (Plex Smart Manufacturing Platform)\n**Best for:** Mid-sized manufacturers wanting a more modern, cloud-oriented platform\n\n**Why consider it**\n- Plex is known for **manufacturing operations management** and has traction in **automotive supply chains**\n- Good for **production management**, **quality**, **traceability**, and **performance monitoring**\n- Often attractive for companies that want to avoid a fully custom MES build\n\n**Pros**\n- Strong automotive heritage\n- Cloud model can reduce infrastructure burden\n- Good plant-floor visibility\n\n**Cons**\n- China deployment, localization, and local support should be checked carefully\n- Integration with local Chinese ERP/accounting systems may require more work\n\n**Fit for you**\n- Worth evaluating if you want a more standardized and potentially faster-to-deploy solution\n\n---\n\n## 3. AVEVA MES\n**Best for:** Plants that also need strong industrial software integration, especially with SCADA/historian environments\n\n**Why consider it**\n- AVEVA is strong in industrial software and plant data environments\n- MES offering can support **production execution**, **quality**, **performance**, and **traceability**\n- Useful if you already have AVEVA/Wonderware footprint\n\n**Pros**\n- Good industrial integration\n- Strong visualization and operations data capabilities\n- Suitable for mixed automation environments\n\n**Cons**\n- Depending on your use case, may need integrator support to tailor for automotive parts workflows\n- Can become implementation-partner dependent\n\n**Fit for you**\n- Good if your factory already uses AVEVA/Wonderware or if OT integration is a major priority\n\n---\n\n## 4. Dassault Systèmes DELMIA Apriso\n**Best for:** Complex manufacturing operations, multi-site governance, deep process orchestration\n\n**Why consider it**\n- Very strong MES/MOM platform for global manufacturers\n- Good at **standardizing processes across plants**\n- Strong in **traceability**, **quality**, and **work instruction/process control**\n\n**Pros**\n- Powerful and flexible\n- Strong for automotive and complex assembly/process flows\n- Good enterprise-level governance\n\n**Cons**\n- Usually more suitable for larger or more digitally mature organizations\n- Cost and implementation complexity can be high\n\n**Fit for you**\n- Consider if you expect to grow into a multi-site, highly standardized operation and can support a larger project\n\n---\n\n## 5. SAP Digital Manufacturing\n**Best for:** Companies already standardized on SAP ERP\n\n**Why consider it**\n- If you already run **SAP ERP**, this can simplify integration and master data consistency\n- Covers production execution, monitoring, and analytics\n- Strong enterprise integration logic\n\n**Pros**\n- Natural fit with SAP environment\n- Better data consistency across ERP and manufacturing\n- Good for companies with strong IT governance\n\n**Cons**\n- Less attractive if you are not already an SAP shop\n- Can be costly and require strong internal IT capability\n\n**Fit for you**\n- Only shortlist this if SAP is already central to your business systems\n\n---\n\n## 6. Critical Manufacturing\n**Best for:** Manufacturers needing modern MES flexibility with strong traceability and quality\n\n**Why consider it**\n- Increasingly recognized in advanced manufacturing\n- Strong architecture and flexibility\n- Good for companies that want a modern platform but not necessarily the biggest",
   "rep": 1,
   "qid": "EN2",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "Here are a few well-known study-abroad consulting agencies you can consider for a child planning to study overseas after high school:\n\n### Large international agencies\n1. **IDP Education**  \n   - Strong for Australia, UK, Canada, and New Zealand  \n   - Well-established, with many offices and test-prep/admissions support\n\n2. **SI-UK / SI-Global**  \n   - Especially good for UK applications  \n   - Also supports other destinations through related services\n\n3. **AECC Global**  \n   - Focuses on Australia, Canada, UK, USA, and New Zealand  \n   - Offers counseling, admissions, and visa guidance\n\n4. **ApplyBoard**  \n   - Large international platform connecting students with schools  \n   - Useful for comparing institutions and programs\n\n### U.S.-focused or premium counseling firms\n5. **Crimson Education**  \n   - Strong reputation for selective university admissions counseling  \n   - More premium/expensive, often very hands-on\n\n6. **IvyWise**  \n   - Focus on U.S. admissions strategy, essays, and school selection  \n   - Best if targeting highly competitive universities\n\n7. **EducationUSA**  \n   - Not a private agency, but an official U.S.-government-supported advising network  \n   - Very trustworthy for students interested in the United States\n\n### Things to check before choosing\n- Whether they are strong for your target country: **US, UK, Canada, Australia, Europe, etc.**\n- Whether they help with:\n  - school selection\n  - application strategy\n  - essays/personal statements\n  - visa process\n  - scholarship search\n  - accommodation\n- Their **fee structure**\n- Whether they are tied to certain universities only\n- Reviews from families in your country/city\n- Counselor experience with **undergraduate admissions right after high school**\n\n### My practical recommendation\nIf you want a shortlist:\n- **IDP Education** – reliable general option  \n- **AECC Global** – broad destination support  \n- **Crimson Education** – if you want premium, competitive-admissions help  \n- **EducationUSA** – if the child is mainly targeting the U.S.  \n- **SI-UK** – if the child is mainly targeting the UK\n\nIf you want, I can also give you:\n1. a list by **country** (US/UK/Canada/Australia),  \n2. a list of agencies in **your city or country**, or  \n3. a checklist for how to choose a trustworthy consultant.",
   "rep": 1,
   "qid": "EN3",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "选择留学中介是一个非常关键的决定，因为不同的机构在**申请策略、资源积累、服务模式以及收费标准**上都有很大差异。\n\n由于我不了解您孩子的具体目标国家（美国、英国、加拿大、澳洲、新加坡等）、目前的学术水平以及预算，我无法直接给您推荐某一家“最好”的机构。但我可以为您提供一个**分类推荐指南**，并教您一套**筛选中介的避坑方法**。\n\n### 一、 留学中介的常见分类\n\n目前市场上的中介大致分为三类，您可以根据孩子的需求选择：\n\n#### 1. 大型连锁机构（规模化、流程化）\n*   **特点：** 品牌知名度高，有标准化的操作流程，资源覆盖面广，申请经验多。\n*   **优点：** 稳定性强，不容易跑路，对大多数常规申请（如申请排名中上的学校）非常高效。\n*   **缺点：** 像“工厂”一样，一个顾问可能同时带几十个学生，个性化关注度较低，容易出现“套模板”现象。\n*   **代表：** 很多国内知名的老牌留学机构（如新东方前途出国等）。\n\n#### 2. 精品工作室/高端定制机构（个性化、深度挖掘）\n*   **特点：** 规模较小，通常由经验丰富的资深顾问或海归主导，主打“高端定制”。\n*   **优点：** 对孩子的背景挖掘更深，文书（Personal Statement）质量通常更高，申请策略更具针对性，适合冲刺顶尖名校（如常春藤、G5）。\n*   **缺点：** 价格昂贵，且非常依赖于分配给你们的那个具体顾问的个人能力。\n\n#### 3. 垂直类/专项机构（专注某个国家或专业）\n*   **特点：** 只做英国，或者只做艺术类留学，或者只做医学/法学。\n*   **优点：** 在该领域有极深的人脉和内部信息，对该国政策和专业要求了如指掌。\n*   **缺点：** 灵活性差，如果孩子中途想换国家，他们无法提供服务。\n\n---\n\n### 二、 挑选中介时的“五个关键问题”（避坑指南）\n\n在与中介面谈时，请务必询问以下问题，通过对方的回答判断其专业度：\n\n1.  **“谁来负责我的孩子？”**\n    *   **警惕：** 销售人员（顾问）谈得天花乱坠，但最后把孩子交给一个刚入职的助理。\n    *   **要求：** 明确要求知道谁负责**文书写作**，谁负责**申请递交**，是否可以与文书老师直接沟通。\n\n2.  **“文书是原创还是模板？”**\n    *   **警惕：** 承诺“保证录取”或使用统一的模版。\n    *   **要求：** 询问文书挖掘的过程（是否会与孩子多次深度访谈），要求看一些脱敏后的成功案例。\n\n3.  **“申请方案是如何制定的？”**\n    *   **警惕：** 还没了解孩子情况就直接给出一份“保底+匹配+冲刺”的名单。\n    *   **要求：** 专业的机构会根据孩子的GPA、语言成绩、课外活动，给出详细的理由解释为什么推荐这些学校。\n\n4.  **“收费标准是否透明？”**\n    *   **警惕：** 隐藏收费，或在合同中对“退费机制”含糊其辞。\n    *   **要求：** 合同中必须明确：服务项目、费用总额、付款节点、**未录取时的退费比例**。\n\n5.  **“如果申请不理想，有补救方案吗？”**\n    *   **要求：** 询问是否有二轮申请方案或Gap Year的指导。\n\n---\n\n### 三、 给家长的特别建议\n\n1.  **孩子是主体：** 留学申请（尤其是文书",
   "rep": 1,
   "qid": "CN3",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
   "text": "可以，按你们的情况：\n\n- **团队规模**：50 人\n- **预算**：**2000 元/月以内**\n- **目标**：采购一套 **CRM 系统**\n- **推测需求**：大概率需要销售线索、客户管理、跟进记录、商机/合同、基础报表，最好还能有审批、移动端、微信/企微集成\n\n在这个预算下，**重点要看“按人头收费”还是“按功能模块收费”**。  \n50 人如果全部购买高阶 CRM 账号，**很多厂商会超预算**。所以更现实的思路通常是：\n\n1. **只给销售/客服核心人员开通付费账号**\n2. 或选择 **国产中低价 SaaS CRM**\n3. 或选择 **“CRM + OA/低代码”一体化产品**\n\n---\n\n## 一、先给你结论：比较适合你们的几个方向\n\n### 1）纷享销客\n**适合**：销售流程相对规范、想要国产成熟 CRM 的 SaaS 公司\n\n**优点**\n- 国内 CRM 里知名度较高，销售管理能力比较完整\n- 线索、客户、公海、商机、拜访、报表等比较成熟\n- 对 B2B 销售流程支持较好\n- 移动端和企业微信等生态通常比较友好\n\n**可能的问题**\n- 对 50 人团队来说，**如果全员付费，预算可能偏紧甚至超出**\n- 一些高级能力、定制化、集成能力通常要更高版本\n\n**预算判断**\n- 如果你们只给 **10–20 个核心销售账号**，有机会控制在预算附近\n- 如果 **50 人全开通**，大概率不太容易压到 **2000 元/月以内**\n\n**建议**\n- 可以列入询价名单，但要重点问：\n  - 最低起购人数\n  - 是否支持“销售付费账号 + 管理层免费查看”\n  - 企业微信集成是否额外收费\n  - 报表、审批、字段自定义是否在基础版里\n\n---\n\n### 2）销售易\n**适合**：希望系统更专业、未来有升级空间的公司\n\n**优点**\n- 国内比较主流的 CRM 厂商\n- 在销售过程管理、客户 360、流程规范化上能力不错\n- 对成长型企业和中大型企业都有覆盖\n\n**可能的问题**\n- **价格通常不算低**\n- 对你们这个预算，**大概率只能买基础版、少量账号，或者不太够**\n\n**预算判断**\n- 更适合你们先去询价对比\n- 如果预算非常硬性卡在 **2000/月以内**，销售易未必是最优性价比选择\n\n**建议**\n- 如果你们特别重视“专业 CRM 能力”，可以对比\n- 但从预算角度，**优先级可放在第二梯队**\n\n---\n\n### 3）Zoho CRM（国际厂商，国内也有服务）\n**适合**：预算敏感、希望功能全面、接受稍微偏国际化的产品体验\n\n**优点**\n- **价格通常比较有竞争力**\n- CRM 核心功能完整：线索、客户、联系人、商机、任务、自动化、报表\n- 生态丰富，和邮件、表单、营销工具等联动较多\n- 对 SaaS 公司比较友好，尤其是流程不算特别复杂时\n\n**可能的问题**\n- 本地化体验、国内服务支持、和微信/企微/钉钉的深度，可能不如纯国产厂商\n- 部分团队会觉得界面/逻辑更“国际化”，需要适应\n\n**预算判断**\n- 在你们预算内，**可行性相对高**\n- 尤其适合 **只给核心销售/客服/CSM 付费**\n\n**建议**\n- 如果你们更关注 **性价比**，Zoho CRM 值得重点看\n- ",
   "rep": 2,
   "qid": "CN1",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "可以，先给您一个**适合华东汽车零部件制造企业（年产值 5–10 亿）上 MES 的服务商筛选建议**。  \n这个体量通常已经不是“买个标准软件装上就行”，而是要考虑：\n\n- **离散制造能力**是否强，尤其汽车零部件场景\n- 是否懂 **IATF16949 / APQP / PPAP / SPC / 追溯**\n- 能不能和 **ERP、WMS、PLM、设备、条码/RFID、质量系统**打通\n- 是否有 **多工厂/多车间推广能力**\n- 项目实施团队是不是在 **华东常驻/响应快**\n- 是要“先做透明化+追溯”，还是一步到位做“计划排产+质量+设备+成本”\n\n---\n\n# 一、先给您推荐几类服务商\n\n我建议不要只看“谁最有名”，而是分成 4 类来选：\n\n## 1）国际大厂：适合管理基础较强、预算较高、希望长期平台化\n### 1. 西门子 Siemens Opcenter\n**特点：**\n- 在离散制造、汽车行业积累深\n- 平台能力强，适合复杂工艺、多工厂、集团化\n- 可覆盖 MES、质量、排产、设备数据集成等\n\n**适合您如果：**\n- 未来不止一个工厂要推广\n- 对标准化、集团管控要求高\n- 预算比较充足，愿意接受较长实施周期\n\n**注意点：**\n- 成本通常较高\n- 实施对甲方管理能力要求高\n- 需要找靠谱的本地实施伙伴，项目成败很大程度看实施团队\n\n---\n\n### 2. 达索 DELMIA Apriso\n**特点：**\n- 汽车及复杂离散制造比较强\n- 对全球化制造协同、工厂运营标准化支持较好\n- 质量、工艺、执行协同能力不错\n\n**适合您如果：**\n- 客户要求高，尤其有主机厂/一级供应商背景\n- 想把制造执行和工艺、质量更紧密结合\n- 有比较明确的数字化路线图\n\n**注意点：**\n- 同样属于高投入方案\n- 实施复杂度不低\n\n---\n\n### 3. Rockwell FactoryTalk / Plex（视中国本地团队情况）\n**特点：**\n- 更偏工厂自动化与制造协同\n- 如果设备层、自动化层基础较强，会比较顺\n\n**适合您如果：**\n- 自动化设备多\n- 希望 MES 和设备、SCADA、工业数据采集联动更强\n\n**注意点：**\n- 中国本地化、行业实施深度要具体看合作伙伴\n- 需要重点核验汽车零部件案例\n\n---\n\n## 2）国内头部工业软件厂商：适合追求性价比、本地化、响应速度\n### 4. 鼎捷\n**特点：**\n- 在制造业尤其离散制造覆盖面广\n- 华东客户多，实施和服务网络比较成熟\n- MES + ERP + APS + WMS 一体化思路比较常见\n\n**适合您如果：**\n- 想找相对稳妥、国内市场成熟度高的厂商\n- 希望本地团队响应快\n- 既要生产透明化，也要兼顾计划、仓储、质量协同\n\n**注意点：**\n- 要看具体团队是否做过汽车零部件，不同分公司/伙伴能力差异会有\n- 不能只听演示，要看真实上线案例\n\n---\n\n### 5. 用友 / 用友智能制造相关团队\n**特点：**\n- 企业管理软件基础强，和 ERP/财务/供应链衔接优势明显\n- 对集团型企业、管理一体化有一定优势\n- 本地服务体系较广\n\n**适合您如果：**\n- 您现有 ERP 就是用友，想减少",
   "rep": 2,
   "qid": "CN2",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "可以，但先说结论：**没有“绝对最好”的留学中介，只有“是否适合你家孩子的目标国家、预算、成绩情况和申请层次”的机构。**  \n如果孩子是**明年高考后再决定出国**，时间其实比较紧，建议尽快做规划，尤其要先明确是走：\n\n1. **高考成绩直申海外本科**  \n2. **国际大一 / 预科 / 桥梁课程**  \n3. **先读语言，再衔接本科**  \n4. **国内本科 + 以后出国读研**\n\n不同机构擅长的国家和项目不一样。\n\n---\n\n## 一、国内比较常见、知名度较高的留学机构\n\n以下是市面上家长接触较多的几类机构，给您做个方向性参考：\n\n### 1. 新东方前途出国\n**特点：**\n- 大机构，分公司多，覆盖城市广\n- 英、美、加、澳、新、港、新加坡等主流国家/地区业务比较全\n- 适合想要**流程规范、体系化服务**的家庭\n\n**优点：**\n- 品牌大，信息渠道多\n- 背后有语言培训资源，雅思托福规划相对方便\n- 对主流国家本科申请经验较多\n\n**注意点：**\n- 顾问和文书老师水平会有差异，**具体要看分公司和顾问个人**\n- 大机构里也常见“前端顾问讲得很好，后端服务换人”的情况，要提前问清楚\n\n---\n\n### 2. 启德教育\n**特点：**\n- 老牌留学机构，国家覆盖面广\n- 英联邦方向（英国、澳洲、香港、新加坡等）相对常见\n- 本科、硕士申请都做得比较多\n\n**优点：**\n- 分支机构较多\n- 对传统热门国家申请流程比较熟\n- 有些城市的顾问资源不错\n\n**注意点：**\n- 同样要看具体团队，不同城市差别可能比较大\n- 合同条款、退费规则要仔细看\n\n---\n\n### 3. 金吉列留学\n**特点：**\n- 也是全国性大机构，门店较多\n- 家长群体里知名度高\n- 适合希望线下沟通、面对面签约的家庭\n\n**优点：**\n- 门店多，沟通方便\n- 对签证、流程性事务经验较丰富\n- 一些非一线城市家长接触起来比较便利\n\n**注意点：**\n- 机构大，顾问能力参差不齐\n- 要重点考察**负责你家孩子的具体老师**，不要只看品牌\n\n---\n\n### 4. 新通教育\n**特点：**\n- 在英联邦、欧洲、亚洲部分国家/地区申请上较常见\n- 一些城市口碑不错\n\n**优点：**\n- 对英国、澳洲、香港、新加坡等方向有一定经验\n- 有的团队在本科和研究生申请都比较成熟\n\n**注意点：**\n- 仍然是“看团队、看顾问、看案例”比看品牌更重要\n\n---\n\n### 5. 威久留学\n**特点：**\n- 英国方向存在感较强\n- 适合重点考虑英国本科、预科、国际大一等路径的家庭\n\n**优点：**\n- 对英国院校体系、衔接课程比较熟\n- 如果孩子高考后想尽快衔接英国路线，可以重点聊聊\n\n**注意点：**\n- 如果目标国家不是英国，要看它在对应国家上的团队实力\n\n---\n\n### 6. 澳际教育\n**特点：**\n- 澳洲方向传统上比较有名\n- 也做其他国家\n\n**优点：**\n- 如果重点考虑澳洲本科、预科、快捷课程，可以去对比\n- 对澳洲院校体系理解相对较多\n\n**注意点：**\n- 还是那句话，",
   "rep": 2,
   "qid": "CN3",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "Here are a few solid CRM options for a 50-person SaaS company on a **sub-$300/month** budget, with a bias toward tools that are practical for SMBs:\n\n### Best fits\n\n#### 1. **HubSpot CRM**\n- **Why consider it:** Easy to use, strong ecosystem, good for startups and SaaS teams.\n- **Pricing:** Free CRM available; paid Sales Hub plans can scale up quickly, so watch seat costs.\n- **Best for:** Teams that want fast adoption and strong marketing/sales integrations.\n- **Caution:** Costs can rise fast once you need automation/reporting on paid tiers.\n\n#### 2. **Pipedrive**\n- **Why consider it:** Very sales-focused, intuitive pipeline management, easy for reps to use.\n- **Pricing:** Usually affordable for small to midsize teams; likely workable under your budget depending on seat count and tier.\n- **Best for:** Teams that mainly need pipeline visibility and sales process discipline.\n- **Caution:** Less robust for marketing/service use cases than broader platforms.\n\n#### 3. **Zoho CRM**\n- **Why consider it:** Strong feature set for the price, broad product suite, good customization.\n- **Pricing:** Typically one of the best value options for budget-conscious teams.\n- **Best for:** Companies wanting more features without paying premium CRM prices.\n- **Caution:** UI and setup can feel more complex than simpler CRMs.\n\n#### 4. **Freshsales**\n- **Why consider it:** Good mix of CRM, email, and automation features at SMB-friendly pricing.\n- **Pricing:** Often competitive for growing teams.\n- **Best for:** Teams wanting an all-in-one sales CRM without enterprise pricing.\n- **Caution:** Check whether the needed automation/reporting features are in your price tier.\n\n#### 5. **Insightly**\n- **Why consider it:** CRM plus project/workflow capabilities can help if sales handoff matters.\n- **Pricing:** Mid-range; may fit if only part of the team needs paid seats.\n- **Best for:** SaaS companies that want CRM tied to post-sale delivery/account management.\n- **Caution:** Can get expensive if many users need full access.\n\n### My shortlist for your situation\nIf you want the most likely fits under **$300/month**, I’d prioritize:\n1. **Zoho CRM** — best value/features\n2. **Pipedrive** — best ease of use for sales teams\n3. **Freshsales** — best balanced SMB option\n\n### Important budget reality check\nFor a **50-person company**, staying under **$300/month** usually means one of these:\n- only a subset of users need paid CRM seats, or\n- you use a lower-tier plan, or\n- you rely on a free CRM with limited automation/reporting.\n\nIf you want, I can also give you:\n1. a **side-by-side pricing comparison**,  \n2. a **“best CRM by use case” recommendation** (sales-led SaaS, PLG, customer success-heavy, etc.), or  \n3. a **shortlist narrowed to 3 vendors** based on your team structure.",
   "rep": 2,
   "qid": "EN1",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "\n\nHere are a few CRM vendors that could fit a 50-person SaaS company under $300/month:\n\n**1. HubSpot CRM**\n- Free tier is robust and supports unlimited users\n- Paid \"Starter\" plan starts at ~$15/user/month — you could start free and scale selectively to only sales-relevant team members\n- Great for SaaS with strong integrations and pipeline management\n\n**2. Zoho CRM**\n- Standard plan: ~$14/user/month (billed annually)\n- Free plan available for up to 3 users\n- Highly customizable and part of a broader suite of business tools\n\n**3. Pipedrive**\n- Essential plan: ~$15/user/month\n- Built specifically for sales teams — very intuitive pipeline-focused UI\n- Good for smaller sales teams within your company\n\n**4. Salesforce Essentials**\n- ~$25/user/month\n- More expensive per seat, but powerful if you need deep customization\n- Best if only 10–12 people need CRM access to stay under budget\n\n**Recommendation:** Start with **HubSpot's free tier** for the whole company, then upgrade only the sales-facing users (~10–15 people) to a paid plan. This keeps you well under $300/month while giving everyone access to basic CRM features. As you grow, you can scale selectively.",
   "rep": 2,
   "qid": "EN1",
-  "model": "agnes"
+  "model": "E"
  },
  {
   "ok": true,
   "text": "For an East China auto parts manufacturer in the **$50–100M revenue** range, I’d shortlist MES providers in **three tiers**: global enterprise vendors, strong China-local vendors, and practical mid-market options.\n\n## 1) Best-fit shortlist\n\n### **Siemens Opcenter**\n- **Why consider it:** Strong discrete manufacturing and automotive pedigree; good for multi-plant standardization, traceability, quality, and integration with ERP/PLM/automation.\n- **Best for:** Companies wanting a scalable platform and willing to invest in a more structured rollout.\n- **Watch-outs:** Higher cost and implementation complexity.\n\n### **Rockwell FactoryTalk ProductionCentre / Plex**\n- **Why consider it:** Good fit for automotive and parts manufacturing; strong production tracking, quality, OEE, genealogy, and plant-floor integration.\n- **Best for:** Firms with mixed automation environments or existing Rockwell footprint.\n- **Watch-outs:** Can become expensive depending on scope and modules.\n\n### **SAP Digital Manufacturing**\n- **Why consider it:** Makes sense if you already run **SAP ERP** or plan deep ERP-MES integration; strong on standardized processes and enterprise visibility.\n- **Best for:** Companies already invested in SAP.\n- **Watch-outs:** Usually not ideal if SAP is not already core to your stack.\n\n### **Dassault DELMIA Apriso**\n- **Why consider it:** Very strong in complex discrete manufacturing, quality, traceability, and multi-site operations.\n- **Best for:** Automotive suppliers with demanding compliance and process control needs.\n- **Watch-outs:** Implementation can be heavy for a mid-sized company.\n\n---\n\n## 2) China-local / China-strong options\n\n### **鼎捷 Digiwin**\n- **Why consider it:** Strong presence in Greater China manufacturing; often more practical on cost, localization, and implementation support in East China.\n- **Best for:** Mid-sized manufacturers needing MES + ERP coordination with local support.\n- **Watch-outs:** Need to verify automotive-specific depth for your exact processes.\n\n### **用友 YonBIP / UFIDA manufacturing solutions**\n- **Why consider it:** Strong domestic ecosystem, local service capability, and easier alignment with China reporting/IT practices.\n- **Best for:** Firms prioritizing local support, cost control, and integration with domestic enterprise systems.\n- **Watch-outs:** MES depth can vary by implementation partner and module selection.\n\n### **金蝶 Kingdee manufacturing/MES ecosystem**\n- **Why consider it:** Popular in China mid-market; can be cost-effective with decent localization.\n- **Best for:** Companies wanting a more budget-conscious domestic solution.\n- **Watch-outs:** Need to carefully assess shop-floor depth, traceability, and automotive use cases.\n\n---\n\n## 3) Mid-market / practical options worth checking\n\n### **Critical Manufacturing**\n- **Why consider it:** Modern architecture, good usability, flexible integration, increasingly strong in complex manufacturing.\n- **Best for:** Companies wanting a more modern MES stack without going to the heaviest enterprise tier.\n- **Watch-outs:** Need to confirm local partner strength in East China.\n\n### **Aegis FactoryLogix**\n- **Why consider it:** Strong traceability, quality, and manufacturing intelligence. More known in electronics, but some capabilities may fit parts manufacturing depending on process.\n- **Best for:** If your operation has high traceability/quality data demands.\n- **Watch-outs:** Less obviously “auto parts standard” than Siemens/Rockwell/DELMIA.\n\n### **MPDV HYDRA**\n- **Why consider it:** Solid MES capabilities, especially machine data, production, quality, and workforce tracking.\n- **Best for:** Plants needing practical manufacturing execution without the biggest-enterprise overhead.\n- **Watch-outs:** Need to verify China partner/service coverage.\n\n---\n\n## My practical recommendation for your size\n\nIf I were building a **first-pass vendor list**, I’d start with these **5**:\n\n1. **Siemens Opcenter**  \n2. **Rockwell Plex / FactoryTalk**  \n3. **DELMIA Apriso**  \n4. **Digiwin**  \n5. **YonBIP / UFIDA**\n\nThat gives you:\n- **3 international automotive-proven platforms**\n- **2 strong China-local options** with better localization and often lower implementation risk/cost\n\nIf you already use **SAP**, replace one of the above with **SAP Digital Manufacturing**.\n\n---\n\n## How to choose",
   "rep": 2,
   "qid": "EN2",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "For a 50-person company with a budget under $300/month, you are in a tricky spot. Most \"Enterprise\" CRMs (Salesforce, HubSpot) charge **per user**, which would put your monthly cost well over $1,000.\n\nTo stay under $300, you need a CRM that offers **flat-rate pricing**, **generous free tiers**, or **highly affordable per-user costs**.\n\nHere are the three best recommendations based on your specific constraints:\n\n### 1. Pipedrive (The \"Sales-First\" Choice)\nPipedrive is designed for lean teams who care more about the visual sales pipeline than complex database management. While they charge per user, their entry-level plans are very affordable.\n\n*   **The Math:** Their \"Essential\" plan is roughly $14–$15/user/month. For 50 people, that is $700+ (over budget). \n*   **The Strategy:** In a 50-person SaaS company, **not everyone needs a CRM license.** Typically, only Sales, Account Management, and Leadership (approx. 10–15 people) need full access. \n*   **Estimated Cost:** 15 users $\\times$ $15 = \\mathbf{\\$225/month}$.\n*   **Best for:** Companies that want a clean, visual interface and a fast setup without a dedicated CRM administrator.\n\n### 2. Zoho CRM (The \"Feature-Rich\" Choice)\nZoho is the best \"bang for your buck\" in the industry. They offer a massive suite of tools and a very aggressive pricing structure for small-to-mid-sized businesses.\n\n*   **The Math:** Their \"Standard\" plan is roughly $14–$20/user/month. Like Pipedrive, you will need to limit the number of licensed users to stay under $300.\n*   **The Strategy:** Use Zoho’s \"Free Edition\" for employees who only need to view data, and paid licenses for the \"power users\" (Sales/Ops).\n*   **Estimated Cost:** 15 users $\\times$ $20 = \\mathbf{\\$300/month}$.\n*   **Best for:** SaaS companies that want deep automation, integrated email marketing, and a tool that can grow into an \"Enterprise\" system.\n\n### 3. Airtable or Monday.com (The \"Custom\" Choice)\nSince you are a SaaS company, you may prefer a \"Relational Database\" approach over a rigid CRM. Both Airtable and Monday.com have CRM templates that are highly flexible.\n\n*   **The Math:** These tools often have \"Team\" plans that are more affordable for larger groups than traditional CRMs.\n*   **The Strategy:** Instead of a per-seat CRM, you build a centralized \"Sales Base.\" You can manage permissions so that most of the 50 employees are \"Viewers\" (free/cheap) and only a few are \"Editors\" (paid).\n*   **Estimated Cost:** Depending on the plan, usually **$100–$250/month**.\n*   **Best for:** Early-stage SaaS companies with non-traditional sales processes who hate the \"clunkiness\" of traditional CRMs.\n\n---\n\n### Summary Comparison Table\n\n| Vendor | Pricing Model | Vibe | Best For... |\n| :--- | :--- | :--- | :--- |\n| **Pipedrive** | Per User | Visual/Linear | Fast-moving sales teams |\n| **Zoho CRM** | Per User | Comprehensive | Automation & Scale |\n| **Airtable** | Per Editor | Flexible/Database | Custom workflows |\n\n### 💡 Pro-Tip for your Budget:\nTo keep your cost under $300 for 50 people, you must implement a **\"Tiered Access\"** policy:\n1.  **Power Users (10-15 people):** Full paid licenses (Sales/CS/Execs).\n2.  **Collaborators (35-40 people):** Free \"View-only\" access or shared dashboards. \n\n**Avoid HubSpot** at this stage.",
   "rep": 2,
   "qid": "EN1",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
   "text": "Here are a few well-known **study-abroad consulting agencies** that many families consider for **undergraduate admissions after high school**:\n\n### Large international agencies\n1. **IDP Education**\n   - Strong for destinations like **Australia, UK, Canada, USA, Ireland, New Zealand**\n   - Offers counseling, application help, and IELTS-related support\n\n2. **ApplyBoard**\n   - Popular platform for international student applications\n   - Strong school network, especially for **Canada, USA, UK, Australia**\n\n3. **SI-UK / SI-Global**\n   - Especially known for **UK university admissions**\n   - Also supports other destinations through its broader global services\n\n4. **AECC Global**\n   - Works with multiple countries including **Australia, Canada, USA, UK, New Zealand**\n   - Provides counseling, admissions, and visa guidance\n\n5. **KC Overseas Education**\n   - Well-known in some markets for undergraduate and postgraduate overseas admissions\n   - Supports applications, test prep guidance, and visas\n\n### More premium / strategy-focused counseling firms\n6. **Crimson Education**\n   - Higher-touch, premium counseling\n   - Strong for selective universities in the **US/UK**\n   - Often includes profile building, extracurricular planning, essay support\n\n7. **The Princeton Review / admissions counseling divisions**\n   - In some regions, offers admissions counseling in addition to test prep\n   - Useful if your child is targeting competitive schools\n\n### Country-specific options\n8. **EducationUSA advisers** (for the **United States**)\n   - Not a private agency, but an official advising network supported by the U.S. government\n   - Very useful for reliable information on U.S. colleges and admissions\n\n9. **British Council** (for the **UK**)\n   - Helpful for official guidance on UK study options and IELTS-related resources\n\n10. **Campus France** / **DAAD** / **Study in Holland** / similar official bodies\n   - Best if your child is considering **France, Germany, Netherlands**, etc.\n   - Often provide trustworthy country-specific information\n\n## How to choose a good agency\nBefore signing with any consultant, check:\n- **Destination expertise**: US admissions are very different from UK, Canada, or Australia\n- **Undergraduate specialization**: some agencies focus more on master’s students\n- **Transparency on fees**\n- **Whether they represent only partner universities** or truly help with a broad range of schools\n- **Essay/personal statement support quality**\n- **Visa success process**\n- **Reviews and parent/student references**\n- **Whether they help with scholarships and financial aid**\n\n## Important caution\nSome agencies may push universities that pay them commissions. Ask directly:\n- “Do you recommend only partner institutions?”\n- “Can you help us apply to non-partner universities too?”\n- “What is your success rate for undergraduate admissions?”\n- “Who will personally review essays and applications?”\n\n## My practical recommendation\nA good approach is:\n- Use **official resources** for reliable baseline information\n- Shortlist **2–3 private consultants**\n- Compare them on:\n  - destinations\n  - fees\n  - counseling depth\n  - university range\n  - visa support\n  - scholarship guidance\n\nIf you want, I can also help by recommending agencies based on:\n1. **your country**,  \n2. **your child’s target destination** (US/UK/Canada/Australia/etc.), and  \n3. **your budget**.",
   "rep": 2,
   "qid": "EN3",
-  "model": "gpt-5.4"
+  "model": "B"
  },
  {
   "ok": true,
   "text": "选择留学中介是一个非常关键的决定，因为不同的机构在**申请策略、资源积累、服务模式**以及**价格**上都有很大差异。\n\n由于我不知道您孩子具体想去哪个国家（美、英、加、澳等）、目标院校的档次（顶尖名校还是稳妥录取）以及目前的学术背景，我无法直接给您推荐某一家“最好”的机构，但我可以为您提供一个**分门类、分需求的机构筛选指南**，并教您如何鉴别中介。\n\n### 一、 留学中介的主要分类\n\n目前的留学市场大致分为三类，您可以根据孩子的需求对号入座：\n\n#### 1. 大型综合性机构（规模大，流程标准化）\n*   **特点：** 品牌知名度高，有标准化的操作流程，资源覆盖面广，能够处理各种常规申请。\n*   **适合：** 目标相对明确，不需要极高端的“背景提升”，追求流程稳妥、高效的家庭。\n*   **代表方向：** 如新东方前途出国等（这类机构胜在规模，但要注意分配到的具体顾问的经验水平）。\n\n#### 2. 精品/高端工作室（注重文书，主攻名校）\n*   **特点：** 规模较小，通常由经验丰富的前招生官或名校海归创办。更注重挖掘学生的个人特质，文书（Personal Statement）的定制化程度极高。\n*   **适合：** 目标是世界顶尖名校（如常春藤、G5），需要深度挖掘背景、规划课外活动和高端文书的同学。\n*   **注意：** 价格较高，且非常依赖于具体负责该学生的顾问个人能力。\n\n#### 3. 专项类/低龄留学背景机构\n*   **特点：** 专注于某个国家或某个专业（例如专门做艺术留学的、专门做医学留学的）。\n*   **适合：** 孩子申请的是艺术类、建筑类等需要作品集（Portfolio）的专业。\n\n---\n\n### 二、 如何筛选和评估中介（避坑指南）\n\n在与中介面谈时，请务必询问以下五个核心问题，通过答案来判断其专业度：\n\n1.  **“谁来负责我的申请？”**\n    *   **坑点：** 很多机构在销售阶段由资深主管承诺，但签约后交给一个刚毕业的实习生。\n    *   **要求：** 明确要求知道具体的**文书老师**和**申请老师**是谁，查看他们的资历和过往成功案例。\n\n2.  **“文书是定制的，还是模板化的？”**\n    *   **坑点：** 很多中介使用模板，将学生的名字替换掉即可，这在顶尖名校申请中是致命的。\n    *   **要求：** 询问文书创作流程，是否会与孩子进行多次深度访谈来挖掘个人故事。\n\n3.  **“能提供真实的、可核实的案例吗？”**\n    *   **坑点：** 很多机构展示的“录取名单”是汇总的，可能其中一个学生申请了20所学校，被录取了5所，机构会把这5所全部列在成功案例里。\n    *   **要求：** 要求看与您孩子**背景相似**（分数段、专业）的真实案例，并询问该学生最终去了哪所学校。\n\n4.  **“如果没达到预期目标，如何处理？”**\n    *   **坑点：** 承诺“保录”或“100%录取”的机构基本都是骗局。名校录取具有随机性，任何承诺保录的都要警惕。\n    *   **要求：** 看其如何制定“冲刺-稳妥-保底”的梯度方案。\n\n5.  **“服务包含哪些具体环节？”**\n    *   **要求：** 明确是否包含：选校规划 $\\rightarrow$ 语言考试指导 $\\rightarrow$ 文书撰写 $\\rightarrow$ 申请递交 $\\rightarrow$ ",
   "rep": 2,
   "qid": "CN3",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
   "text": "For a 50-person company with a budget under $300/month, your primary challenge is **per-user pricing**. Most enterprise CRMs (Salesforce, HubSpot) charge per seat, which would put you way over budget at 50 users (e.g., HubSpot's \"Starter\" plan is cheap, but their \"Professional\" plan is thousands per month).\n\nTo stay under $300, you need a CRM with **flat-fee pricing** or **extremely low per-user costs**.\n\nHere are the three best recommendations based on your specific constraints:\n\n### 1. Pipedrive (The \"Sales-Focused\" Choice)\nPipedrive is designed specifically for SaaS sales pipelines. While they charge per user, their entry-level plans are affordable, and you likely don’t need all 50 employees in the CRM.\n\n*   **The Strategy:** Only put your sales and account management team (e.g., 10–15 people) in the CRM. Let the other 35 employees view data via integrations or shared reports.\n*   **Pricing:** The \"Essential\" plan is roughly **$14–$15 per user/month**.\n*   **Cost for 15 users:** ~$225/month.\n*   **Pros:** Incredible visual pipeline, very easy to set up, great mobile app.\n*   **Cons:** If you truly need all 50 people to have individual logins and edit access, you will exceed your budget.\n\n### 2. Zoho CRM (The \"Feature-Rich\" Choice)\nZoho is known for offering the most \"bang for your buck.\" They have a very aggressive pricing structure for small-to-mid-sized businesses.\n\n*   **The Strategy:** Use the \"Standard\" plan.\n*   **Pricing:** The Standard plan is roughly **$14–$20 per user/month**.\n*   **Cost for 15-20 users:** ~$280/month.\n*   **Pros:** Massive feature set (automation, workflows, lead scoring) that usually costs thousands in other tools. Integrates with the rest of the Zoho ecosystem.\n*   **Cons:** The user interface can feel cluttered and \"dated\" compared to modern SaaS tools.\n\n### 3. Airtable (The \"Custom-Built\" Choice)\nSince you are a SaaS company, you likely have a unique way of tracking users, trials, and churn. Airtable isn't a traditional CRM; it's a relational database that looks like a spreadsheet.\n\n*   **The Strategy:** Build a custom CRM base. Airtable charges per \"Editor,\" but \"Read-Only\" users are free.\n*   **Pricing:** The \"Team\" plan is **$20 per seat/month**.\n*   **Cost for 10 Editors + 40 Viewers:** $200/month.\n*   **Pros:** Total flexibility. You can link your \"Customers\" table to your \"Product Features\" table or \"Bug Reports\" table.\n*   **Cons:** No built-in \"sales pipeline\" automation (like automatic email sequencing) without using third-party tools like Zapier.\n\n---\n\n### Comparison Summary\n\n| Vendor | Best For... | Pricing Model | Estimated Monthly |\n| :--- | :--- | :--- | :--- |\n| **Pipedrive** | Pure Sales Velocity | Per User | ~$225 (15 users) |\n| **Zoho CRM** | Enterprise Features | Per User | ~$280 (20 users) |\n| **Airtable** | Flexibility/Customization | Per Editor | $200 (10 editors) |\n\n### Final Advice for a 50-Person Team:\n**Do not buy a license for every employee.** \n\nIn a 50-person SaaS company, usually only 10–20 people (Sales, CS, and Management) need to *write* data into the CRM. The rest of the company (Engineering, Product, Marketing) usually only needs to *read* the data. \n\n**To stay under $300:**\n1.  Identify your \"Power Users\" (those",
   "rep": 1,
   "qid": "EN1",
-  "model": "gemma-4-31b"
+  "model": "D"
  },
  {
   "ok": true,
@@ -617,6 +617,6 @@
   "reasoning_len": 11312,
   "rep": 2,
   "qid": "EN3",
-  "model": "deepseek"
+  "model": "A"
  }
 ]

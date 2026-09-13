@@ -20,7 +20,7 @@ LANGS = {
         "out": "book",      # docs_dir 内，mkdocs 自动复制到 site/（域名站点）
         "fname": "ai-customer-acquisition",
         "title": "AI 获客",
-        "subtitle": "AI Customer Acquisition：客户换地方挑供应商了",
+        "subtitle": "AI Customer Acquisition：客户在问 AI，你在答案里吗",
         "meta": "Jweokk 著 · {today} · v{version}",
         "blurb": "客户现在不只在搜索框和展会上挑供应商了——他们开始问 AI、让 Agent 去筛、看平台推的和别人说的。<br>这本书讲清楚：在这几个新地方，还有那些老地方，怎么把客户拿到手。",
         "disclaimer": "本书著作权归作者 Jweokk 所有，免费阅读与非商业性分享，商业用途须事先获得书面许可。<br>联系方式：weokk2025@gmail.com",

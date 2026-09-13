@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.2.2 — 2026-09-13（口径与标题轮）
+
+- **副标题换为「客户在问 AI，你在答案里吗」**（原「客户换地方挑供应商了」冲击力不足；主线句本身未动）。
+- 四个篇扉页的小节名由「这一篇的章」改为「**本篇包含章节**」。
+- **全书与实测报告不再出现具体模型厂商与版本号**：自测的五条通道改用能力档记作 A–E（推理型／通用型／轻量型／开源权重型／抽测型），原始数据文件的 model 字段与补跑脚本内的密钥名同步脱敏，文件名 `raw_deepseek.json`／`deepseek_rerun.py` 改为 `raw_channel_A.json`／`channel_A_rerun.py`。理由：版本迭代快，写死版本会让结论很快失效。
+  说明：正文与附录里作为**市场事实**出现的产品名（ChatGPT、豆包、Gemini 等）不属于自测披露，保持原样。
+
 ## v0.2.1 — 2026-09-13（案例轮）
 
 - **补采并织入 16 个「暂无公开可核案例」点位**：第 1、10、12、15、17、19 章的办法例子换成具名可核案例（Epic/苹果版号新规/帕拓逊封号潮/Zynga、东方甄选切片/抖音矩阵号规范/YouTube 变现政策/Gong/Strava、HubSpot Grader/Heroku 免费计划下线/Shopify 起名器、Zillow 减记/Robodebt/Air Canada 聊天机器人/SyRI、iTutorGroup/DPD、Monzo/Robinhood/荣耀/Amazon Associates 等）。
