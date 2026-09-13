@@ -1,0 +1,6 @@
+.venv/
+site/
+.last-update.json
+book/llms.txt
+__pycache__/
+*.pyc

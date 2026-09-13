@@ -1,0 +1,402 @@
+[
+ {
+  "model": "gemini-2.5f",
+  "qid": "CN1",
+  "rep": 1,
+  "chars": 1622,
+  "n": 3,
+  "names": "重点推荐 | 悟空 | 简道云",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "CN2",
+  "rep": 1,
+  "chars": 1602,
+  "n": 12,
+  "names": "行业经验 | 技术实力 | 本地化服务 | 成本效益 | 以下是一些推荐的服务商 | 一、国际知名厂商 | 劣势 | 华东服务商 | 西门子 | 优势 | 二、国内优秀厂商 | 华龙讯达",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "EN1",
+  "rep": 1,
+  "chars": 3571,
+  "n": 27,
+  "names": "Okay | such as lead tracking | sales pipeline management | deal pipelines | task management | basic reporting | meeting scheduling | more advanced reporting | Sales Hub | Service Hub | CMS Hub | Operations Hub) | customer service | or website management | contact management | deal tracking | tasks | live chat | including lead management | deal management",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "agnes",
+  "qid": "CN2",
+  "rep": 1,
+  "chars": 835,
+  "n": 19,
+  "names": "针对华东地区汽车零部件制造行业 | 国内主流服务商 | 鼎捷软件 | 在离散制造业 | 华东地区服务团队完善 | 用友网络 | 国内 | 在华东设有多个服务中心 | 黑湖智造 | 新兴云 | 界面友好 | 浙大中控 | 工业自动化背景深厚 | 华东地区 | 泛微网络 | 华东地区客户基础较好 | 明确需求** | 邀请演示** | 参考案例**",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "CN3",
+  "rep": 1,
+  "chars": 1466,
+  "n": 11,
+  "names": "以下为您推荐几家国内知名且口碑较好的留学中介机构 | 一、综合实力强、规模大的机构 | 新东方前途出国 | 优势 | 劣势 | 启德教育 | 金吉列留学 | 二、专业度高、口碑好的机构 | 澳际留学 | 三、新兴或特色机构 | 优弗留学",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "EN2",
+  "rep": 1,
+  "chars": 4489,
+  "n": 19,
+  "names": "ensure quality | provide traceability | local support teams | language capabilities | UFIDA | lot | serial) | quality control (SPC | FMEA) | supplier management | scheduling | execution | quality | discrete manufacturing | highly scalable | warehouse | maintenance | strong quality management | modular",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "EN3",
+  "rep": 1,
+  "chars": 4176,
+  "n": 18,
+  "names": "high school programs | language immersion | visa | housing | pre-departure orientation | UK | Canada | USA | New Zealand | including course selection | application | visa guidance | comprehensive | foundation courses | Scotland | Wales | year | cultural activities",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "CN1",
+  "rep": 2,
+  "chars": 1568,
+  "n": 18,
+  "names": "在推荐之前 | 核心需求是什么？** | 团队对 | 数据安全和合规性？** | 集成需求？** | 纷享销客 | 优势 | 本土化做得好 | 移动端体验优秀 | 生态系统完善 | 客户服务体系成熟 | 销售易 | 专注于销售 | 数据分析能力 | 灵活配置 | 支持多终端 | 悟空 | 二次开发能力强",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "CN2",
+  "rep": 2,
+  "chars": 1645,
+  "n": 12,
+  "names": "行业经验 | 技术实力 | 服务支持 | 本地化服务 | 成本效益 | 基于以上考量 | 西门子 | 优势 | 劣势 | 罗克韦尔自动化 | 华龙讯达 | 宝信软件",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "EN2",
+  "rep": 1,
+  "chars": 3846,
+  "n": 7,
+  "names": "cost | VW | GM | implementation can be slow | Zhejiang | Shanghai) | Stamping",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "CN1",
+  "rep": 2,
+  "chars": 1519,
+  "n": 7,
+  "names": "极致性价比 | 费用 | 优势 | 国内主流商业 | 这两家是国内 | 推荐理由 | 国际化",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "EN3",
+  "rep": 1,
+  "chars": 3907,
+  "n": 11,
+  "names": "USA | UK | Canada | Australia) | extracurriculars | if you are in China | India | or Korea) | visa support | etc.) | Most accurate | unbiased information. |",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "EN1",
+  "rep": 2,
+  "chars": 3603,
+  "n": 24,
+  "names": "Okay | deal tracking | task management | email scheduling | meeting scheduling | live chat | basic reporting | email templates | document management | calling | tasks | more advanced automation | sequences | custom reports | highly scalable | great UI | huge ecosystem | scoring rules | workflow rules | custom dashboards",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "CN3",
+  "rep": 2,
+  "chars": 1476,
+  "n": 9,
+  "names": "一、知名留学中介机构推荐 | 新东方前途出国 | 优势 | 劣势 | 启德教育 | 金吉列留学 | 澳际留学 | 优弗留学 | 啄木鸟教育",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "EN2",
+  "rep": 2,
+  "chars": 4411,
+  "n": 9,
+  "names": "scalability | robust quality management | traceability | real-time data collection | complex assembly | QM | PM | consultants | or plan to be",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemini-2.5f",
+  "qid": "EN3",
+  "rep": 2,
+  "chars": 4483,
+  "n": 14,
+  "names": "high school immersion | university pathways | strong support networks | cultural immersion | cultural activities | housing | some meals | excursions | not agencies | program details | reading peer reviews | language acquisition | personal growth | direct enrollment",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "CN2",
+  "rep": 2,
+  "chars": 1499,
+  "n": 13,
+  "names": "由于您在华东 | 根据不同的战略定位 | 第一类 | 赛意信息 | 鼎捷软件 | 第二类 | 汽车零部件行业经常面临客户 | 盘古软件 | 西门子 | 第三类 | 在华东 | 对于 | 实施团队的行业背景",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "EN2",
+  "rep": 2,
+  "chars": 3841,
+  "n": 8,
+  "names": "Specialized Automotive MES | Tesla | GM | BMW) | Zhejiang | Shanghai) | reducing scrap | tracking OEE",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "EN3",
+  "rep": 2,
+  "chars": 4128,
+  "n": 5,
+  "names": "USA | UK | Canada | read recent reviews | internships",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "CN1",
+  "rep": 1,
+  "chars": 1374,
+  "n": 27,
+  "names": "公司规模** | 目标** | 是否按使用人数收费 | 是否有基础版 | 是否能只给销售团队购买席位 | 是否把营销、客服、 | 实施和培训是否额外收费 | 一、优先推荐的几个供应商 | 纷享销客 | 在国内 | 线索、客户、联系人、商机、拜访、销售过程管理比较完整 | 对销售团队管理、过程追踪、报表分析支持较好 | 可能的不足 | 实施复杂度可能比轻量 | 销售易 | 国内知名 | 销售管理、客户管理、流程配置、移动端能力较强 | 中等偏低 | 生态比较大 | 对中小企业比较友好",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "CN2",
+  "rep": 1,
+  "chars": 1372,
+  "n": 30,
+  "names": "# 一、先说结论 | 对于您这种规模 | 可关注 | 西门子 | 罗克韦尔 | 达索 | 平台成熟 | 多工厂复制能力强 | 质量、追溯、工艺、设备集成能力强 | 成本高 | 实施周期长 | 对企业内部 | 很多项目最终依赖本地集成商落地 | 鼎捷 | 赛意信息 | 宝信软件 | 中控技术 | 用友 | 能科科技 | 黑湖科技",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "CN1",
+  "rep": 1,
+  "chars": 1657,
+  "n": 13,
+  "names": "以下是为您推荐的三个不同方向的方案 | 方案一 | 推荐产品 | 理由 | 成本 | 灵活性 | 协同 | 方案二 | 国内 | 国外 | 方案三 | 掌控力 | 扩展性",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "CN3",
+  "rep": 1,
+  "chars": 1270,
+  "n": 56,
+  "names": "一、国内比较常见、知名度较高的留学机构 | 以下是市场上较常被家长接触到的机构类型 | 传统大型机构 | 这类机构网点多、体系相对成熟 | 新东方前途出国 | 启德教育 | 金吉列留学 | 新通教育 | 威久留学 | 澳际教育 | 津桥留学 | 啄木鸟教育** | 指南者留学** | 专做部分国家 | 英国 | 澳洲方向 | 美国本科方向 | 日本 | 小而精的工作室 | 顾问可能更细致",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "agnes",
+  "qid": "CN1",
+  "rep": 1,
+  "chars": 751,
+  "n": 14,
+  "names": "纷享销客 | 国内头部 | 基础版 | 支持销售全流程管理、线索跟进、数据分析 | 销售易 | 主打移动化 | 基础版月费约 | 支持客户管理、商机管理、报表分析 | 国际品牌 | 标准版约 | 免费版支持最多 | 简道云 | 零代码平台 | 按用户数收费",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "EN1",
+  "rep": 1,
+  "chars": 3076,
+  "n": 8,
+  "names": "strong for startups/SaaS | broad feature set | automation | reporting | customer support | and CRM in one | 10 | and 20 users**.",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "CN2",
+  "rep": 1,
+  "chars": 1514,
+  "n": 16,
+  "names": "根据您的规模和地域 | 第一类 | 赛意信息 | 优势 | 摩尔线程 | 第二类 | 用友 | 西门子 | 第三类 | 一些深耕长三角 | 在筛选这些服务商时 | “能否实现单件 | 汽车行业最怕召回 | “如何对接我的设备 | “是否有同类规模、同类产品的成功案例？” | 要求对方带您去实地参观一个年产值",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "EN2",
+  "rep": 1,
+  "chars": 4424,
+  "n": 8,
+  "names": "quality management | production scheduling | quality | traceability | localization | performance | multi-site governance | monitoring",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "EN3",
+  "rep": 1,
+  "chars": 2302,
+  "n": 7,
+  "names": "UK | Canada | USA | admissions | essays | Australia | Europe",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "CN3",
+  "rep": 1,
+  "chars": 1447,
+  "n": 16,
+  "names": "选择留学中介是一个非常关键的决定 | 一、 留学中介的常见分类 | 目前市场上的中介大致分为三类 | 大型连锁机构 | 代表 | 精品工作室 | 垂直类 | 二、 挑选中介时的“五个关键问题” | 在与中介面谈时 | “谁来负责我的孩子？” | 警惕 | 要求 | “文书是原创还是模板？” | “申请方案是如何制定的？” | “收费标准是否透明？” | 孩子是主体",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "CN1",
+  "rep": 2,
+  "chars": 1400,
+  "n": 20,
+  "names": "团队规模** | 目标** | 推测需求** | 只给销售 | 或选择 **国产中低价 | 或选择 **“ | 一、先给你结论 | 国内 | 线索、客户、公海、商机、拜访、报表等比较成熟 | 可能的问题 | 最低起购人数 | 是否支持“销售付费账号 + 管理层免费查看” | 企业微信集成是否额外收费 | 报表、审批、字段自定义是否在基础版里 | 国内比较主流的 | 在销售过程管理、客户 | 对成长型企业和中大型企业都有覆盖 | 生态丰富 | 本地化体验、国内服务支持、和微信 | 部分团队会觉得界面",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "CN2",
+  "rep": 2,
+  "chars": 1368,
+  "n": 40,
+  "names": "离散制造能力**是否强 | 是否懂 ** | 能不能和 ** | 是否有 **多工厂 | 项目实施团队是不是在 **华东常驻 | 是要“先做透明化+追溯” | # 一、先给您推荐几类服务商 | 西门子 | 在离散制造、汽车行业积累深 | 平台能力强 | 可覆盖 | 未来不止一个工厂要推广 | 对标准化、集团管控要求高 | 实施对甲方管理能力要求高 | 达索 | 汽车及复杂离散制造比较强 | 对全球化制造协同、工厂运营标准化支持较好 | 质量、工艺、执行协同能力不错 | 客户要求高 | 想把制造执行和工艺、质量更紧密结合",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "CN3",
+  "rep": 2,
+  "chars": 1309,
+  "n": 46,
+  "names": "高考成绩直申海外本科 | 国际大一 | 先读语言 | 国内本科 + 以后出国读研 | 不同机构擅长的国家和项目不一样 | 一、国内比较常见、知名度较高的留学机构 | 以下是市面上家长接触较多的几类机构 | 新东方前途出国 | 大机构 | 英、美、加、澳、新、港、新加坡等主流国家 | 品牌大 | 背后有语言培训资源 | 对主流国家本科申请经验较多 | 顾问和文书老师水平会有差异 | 大机构里也常见“前端顾问讲得很好 | 启德教育 | 老牌留学机构 | 英联邦方向 | 本科、硕士申请都做得比较多 | 分支机构较多",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "EN1",
+  "rep": 2,
+  "chars": 2785,
+  "n": 6,
+  "names": "strong ecosystem | broad product suite | email | PLG | customer success-heavy | etc.)",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "agnes",
+  "qid": "EN1",
+  "rep": 2,
+  "chars": 1170,
+  "n": 1,
+  "names": "you can scale selectively.",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "EN2",
+  "rep": 2,
+  "chars": 4339,
+  "n": 3,
+  "names": "鼎捷 | 用友 | 金蝶",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "EN1",
+  "rep": 2,
+  "chars": 3269,
+  "n": 6,
+  "names": "HubSpot) charge **per user | 000.\n\nTo stay under $300 | generous free tiers | only Sales | Account Management | integrated email marketing",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gpt-5.4",
+  "qid": "EN3",
+  "rep": 2,
+  "chars": 3392,
+  "n": 12,
+  "names": "UK | Canada | USA | Ireland | application help | especially for **Canada | admissions | test prep guidance | extracurricular planning | Germany | Netherlands | and  \n3. **your budget**.",
+  "links": 0,
+  "src": true
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "CN3",
+  "rep": 2,
+  "chars": 1466,
+  "n": 15,
+  "names": "选择留学中介是一个非常关键的决定 | 一、 留学中介的主要分类 | 目前的留学市场大致分为三类 | 大型综合性机构 | 代表方向 | 精品 | 专项类 | 二、 如何筛选和评估中介 | 在与中介面谈时 | “谁来负责我的申请？” | 坑点 | 要求 | “文书是定制的 | “能提供真实的、可核实的案例吗？” | “服务包含哪些具体环节？”",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "gemma-4-31b",
+  "qid": "EN1",
+  "rep": 1,
+  "chars": 3240,
+  "n": 6,
+  "names": "HubSpot) charge per seat | very easy to set up | workflows | trials | CS | Product",
+  "links": 0,
+  "src": false
+ },
+ {
+  "model": "deepseek",
+  "qid": "EN3",
+  "rep": 2,
+  "chars": 263,
+  "n": 2,
+  "names": "major | budget",
+  "links": 0,
+  "src": false
+ }
+]

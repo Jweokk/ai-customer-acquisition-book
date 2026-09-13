@@ -1,0 +1,42 @@
+# AI 获客 (AI Customer Acquisition)
+
+> An open-source, continuously updated book on customer acquisition in the age of AI search and agents: GEO / answer engines, the dark funnel, buyer agents and platform dependency.
+> 一本免费公开、持续更新的开源书：AI 搜索与 Agent 时代的客户获取——GEO 与答案层、暗漏斗、买方代理权与平台依赖。
+
+Key thesis: 获客不是企业发出的动作集合，而是企业获得进入买方决策过程资格的过程。
+(Customer acquisition is not a set of actions a company emits; it is the process of earning a place inside the buyer's decision process.)
+
+## Links
+
+- Read online (Chinese): https://ai-customer-acquisition.fly2ai.top
+- GitHub: https://github.com/Jweokk/ai-customer-acquisition-book
+- PDF (latest): https://github.com/Jweokk/ai-customer-acquisition-book/raw/main/book/ai-customer-acquisition.pdf
+
+## Contents
+
+- [序 入口迁移：从"被找到"到"被调用"](https://ai-customer-acquisition.fly2ai.top/00-序-入口迁移/) — 入口四次转移；三件没变的事；本书实测开篇
+- [第 1 章 买家换了入口：从结果页到答案层](https://ai-customer-acquisition.fly2ai.top/01-第1章-买家换了入口/) — 三次折叠；零点击的斜率；入口审计四步法
+- [第 2 章 决策在暗漏斗里完成](https://ai-customer-acquisition.fly2ai.top/02-第2章-决策在暗漏斗里完成/) — 看不见的那段决策，第一次留下日志
+- [第 3 章 你不在场时的那份名单：候选集机制](https://ai-customer-acquisition.fly2ai.top/03-第3章-候选集机制/) — 候选集是分布不是名单；稳定率才是资产
+- [第 4 章 被引用才有机会：GEO/AEO 的原理、动作与度量](https://ai-customer-acquisition.fly2ai.top/04-第4章-GEO原理动作与度量/) — 机器采信的两层机制；被引用率的经营
+- [第 5 章 两套规则：中文生态与海外生态](https://ai-customer-acquisition.fly2ai.top/05-第5章-两套规则/) — 开放网络 vs 围墙花园；双语入口审计
+- [第 6 章 供给爆炸之后：一手数据、案例与验证经济](https://ai-customer-acquisition.fly2ai.top/06-第6章-一手数据与验证经济/) — 作为"内容"的内容死了，作为"证据"的内容活下来
+- [第 7 章 机器可读：结构化、可核验、可调用](https://ai-customer-acquisition.fly2ai.top/07-第7章-机器可读/) — 事实清单；被描述错比不被提及更危险
+- [第 8 章 别人说你才算数：第三方信源与人类痕迹](https://ai-customer-acquisition.fly2ai.top/08-第8章-第三方信源与人类痕迹/) — 信源建设；真诚溢价与它的边界
+- [第 9 章 风险话题即入口](https://ai-customer-acquisition.fly2ai.top/09-第9章-风险话题即入口/) — 有边界的坦白；失败条件清单
+- [第 10 章 触达的军备竞赛：信号通胀、收件侧防御与渠道重生](https://ai-customer-acquisition.fly2ai.top/10-第10章-触达军备竞赛/) — 触达资产账本；收件侧与监管的收口
+- [第 11 章 外联、外呼与 SDR：能力边界、真实 ROI 与合规红线](https://ai-customer-acquisition.fly2ai.top/11-第11章-外联外呼与合规/) — 人机分工 SOP；采购尽调问题单
+- [第 12 章 从线索到收入：五档标签、账户智能与"自动化放大误判"](https://ai-customer-acquisition.fly2ai.top/12-第12章-五档标签与账户智能/) — AI 是吃标签的动物
+- [第 13 章 当客户是机器：Agent 采购与卖家 Agent 的授权范围](https://ai-customer-acquisition.fly2ai.top/13-第13章-当客户是机器/) — 代理化分档；价格与承诺授权
+- [第 14 章 怎么知道有用：归因、增量实验与预算决策规则](https://ai-customer-acquisition.fly2ai.top/14-第14章-怎么知道有用/) — 三层证据；预算去留规则
+- [第 15 章 当入口不属于你：买方代理权、平台依赖与对冲](https://ai-customer-acquisition.fly2ai.top/15-第15章-入口依赖与对冲/) — 依赖度体检十二问；对冲写进治理
+- [第 16 章 谁来做：组织、预算与人机分工](https://ai-customer-acquisition.fly2ai.top/16-第16章-谁来做/) — 可回退判据；预算从买流量到买资产
+- [第 17 章 边界与失败档案](https://ai-customer-acquisition.fly2ai.top/17-第17章-边界与失败档案/) — 六份失败档案与三条原则
+- [附录 A 案例索引与资料出处](https://ai-customer-acquisition.fly2ai.top/19-附录A-案例索引与资料出处/) — 分档台账与可核性
+- [附录 B 手段平台索引表与指标字典](https://ai-customer-acquisition.fly2ai.top/20-附录B-手段平台索引与指标字典/)
+- [附录 C 版本历史与更新说明](https://ai-customer-acquisition.fly2ai.top/21-附录C-版本历史与更新说明/)
+- [附录 D 行业差异矩阵](https://ai-customer-acquisition.fly2ai.top/22-附录D-行业差异矩阵/)
+
+## Source discipline 来源纪律
+
+每条数据标注性质：【官方口径】/【第三方验证】/【厂商宣称】/【本书判断】/【本书实测】。核不到原始发布方的数字不写入正文。自建实测公开方法与原始数据。

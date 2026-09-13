@@ -1,0 +1,79 @@
+site_name: AI 获客
+site_description: AI Customer Acquisition — GEO、暗漏斗与 Agent 时代的客户获取 · 免费公开、持续更新的开源书
+site_url: https://ai-customer-acquisition.fly2ai.top
+docs_dir: book
+site_dir: site
+repo_url: https://github.com/Jweokk/ai-customer-acquisition-book
+repo_name: GitHub
+hooks:
+  - tools/mkdocs_hooks.py
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jweokk
+      name: GitHub
+
+copyright: 著作权归作者 Jweokk 所有 · 免费阅读与非商业性分享 · 商业用途须书面许可 · 联系 weokk2025@gmail.com
+
+nav:
+  - 首页: index.md
+  - 序 入口迁移：从"被找到"到"被调用": 00-序-入口迁移.md
+  - 第一篇 买家已经先到了:
+      - 第 1 章 买家换了入口：从结果页到答案层: 01-第1章-买家换了入口.md
+      - 第 2 章 决策在暗漏斗里完成: 02-第2章-决策在暗漏斗里完成.md
+      - 第 3 章 你不在场时的那份名单：候选集机制: 03-第3章-候选集机制.md
+      - 第 4 章 被引用才有机会：GEO/AEO 的原理、动作与度量: 04-第4章-GEO原理动作与度量.md
+      - 第 5 章 两套规则：中文生态与海外生态: 05-第5章-两套规则.md
+  - 第二篇 拿什么去被选中:
+      - 第 6 章 供给爆炸之后：一手数据、案例与验证经济: 06-第6章-一手数据与验证经济.md
+      - 第 7 章 机器可读：结构化、可核验、可调用: 07-第7章-机器可读.md
+      - 第 8 章 别人说你才算数：第三方信源与人类痕迹: 08-第8章-第三方信源与人类痕迹.md
+      - 第 9 章 风险话题即入口: 09-第9章-风险话题即入口.md
+  - 第三篇 主动的那一半:
+      - 第 10 章 触达的军备竞赛：信号通胀、收件侧防御与渠道重生: 10-第10章-触达军备竞赛.md
+      - 第 11 章 外联、外呼与 SDR：能力边界、真实 ROI 与合规红线: 11-第11章-外联外呼与合规.md
+      - 第 12 章 从线索到收入：五档标签、账户智能与"自动化放大误判": 12-第12章-五档标签与账户智能.md
+      - 第 13 章 当客户是机器：Agent 采购与卖家 Agent 的授权范围: 13-第13章-当客户是机器.md
+  - 第四篇 证明、边界与收束:
+      - 第 14 章 怎么知道有用：归因、增量实验与预算决策规则: 14-第14章-怎么知道有用.md
+      - 第 15 章 当入口不属于你：买方代理权、平台依赖与对冲: 15-第15章-入口依赖与对冲.md
+      - 第 16 章 谁来做：组织、预算与人机分工: 16-第16章-谁来做.md
+      - 第 17 章 边界与失败档案: 17-第17章-边界与失败档案.md
+  - 附录 A 案例索引与资料出处: 19-附录A-案例索引与资料出处.md
+  - 附录 B 手段平台索引表与指标字典: 20-附录B-手段平台索引与指标字典.md
+  - 附录 C 版本历史与更新说明: 21-附录C-版本历史与更新说明.md
+  - 附录 D 行业差异矩阵: 22-附录D-行业差异矩阵.md

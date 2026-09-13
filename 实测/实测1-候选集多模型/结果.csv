@@ -1,0 +1,41 @@
+﻿model,qid,rep,chars,n,vendors,links,src
+gemini-2.5f,CN1,1,1622,10,Zoho CRM | Zoho Desk | Zoho Campaigns | HubSpot CRM | HubSpot | 悟空CRM | 简道云 | 明道云 | Trello | Asana,0,True
+gemini-2.5f,CN2,1,1602,14,SAP MES | SAP Manufacturing Execution System | SAP ME | 汉得信息 | 神州数码 | 高维信诚 | 西门子 MES | SIMATIC IT MES | Opcenter MES | 上海明匠智能 | 北京力控华康 | Rockwell Automation MES | FactoryTalk ProductionCentre | 华龙讯达,0,False
+gemini-2.5f,EN1,1,3571,4,HubSpot CRM | Sales Hub Starter | Zoho CRM | Standard Edition,0,False
+agnes,CN2,1,835,5,鼎捷软件 | 用友网络 | 黑湖智造 | 浙大中控（SupOS） | 泛微网络,0,True
+gemini-2.5f,CN3,1,1466,7,新东方前途出国 | 启德教育 | 金吉列留学 | 澳际留学 | IDP教育 | IDP诺思留学 | 优弗留学,0,True
+gemini-2.5f,EN2,1,4489,7,Siemens Opcenter APS | Opcenter Execution | Dassault Systèmes DELMIA Apriso | Rockwell Automation | FactoryTalk ProductionCentre | Plex Systems | Critical Manufacturing MES,0,False
+gemini-2.5f,EN3,1,4176,7,IDP Education | EducationUSA | The WorldGrad | Across The Pond | M Square Media (MSM) | AIFS | CIEE,0,False
+gemini-2.5f,CN1,2,1568,3,纷享销客 | 销售易 | 悟空CRM,0,False
+gemini-2.5f,CN2,2,1645,16,西门子 | Siemens | Opcenter EX EC | 罗克韦尔自动化 | Rockwell Automation | FactoryTalk ProductionCentre | SAP | SAP MES | SAP DMC | SAP Manufacturing Execution | SAP Digital Manufacturing Cloud | SAP S/4HANA | 华龙讯达 | Hualan Data | 宝信软件 | Baosight Software,0,False
+gemma-4-31b,EN2,1,3846,9,Siemens Opcenter | Dassault Systèmes | Plex | Rockwell Automation | Critical Manufacturing | Kingdee | Yonyou | Tulip Interfaces | Tulip,0,False
+gemma-4-31b,CN1,2,1519,8,飞书多维表格 | Feishu Base | Airtable | 销售易 | Salesforce | 纷享销客 | HubSpot | Starter,0,False
+gemma-4-31b,EN3,1,3907,6,IDP Education | Kaplan | Crimson Education | The Red Pen | British Council | Campus France,0,True
+gemini-2.5f,EN1,2,3603,7,HubSpot CRM | HubSpot | CRM Suite Starter | Sales Hub Starter | Service Hub Starter | Marketing Hub Starter | Zoho CRM,0,False
+gemini-2.5f,CN3,2,1476,6,新东方前途出国 | 启德教育 | 金吉列留学 | 澳际留学 | 优弗留学 | 啄木鸟教育,0,False
+gemini-2.5f,EN2,2,4411,8,Siemens Opcenter | Rockwell Automation FactoryTalk ProductionCentre | Dassault Systèmes DELMIA Apriso | SAP Digital Manufacturing | SAP ME | SAP MII | Oracle Manufacturing Cloud | Oracle EBS Manufacturing,0,True
+gemini-2.5f,EN3,2,4483,9,EF Education First | EF Study Abroad | CIEE | Council on International Educational Exchange | IES Abroad | AIFS Abroad | American Institute For Foreign Study | Go Overseas | StudyAbroad.com,0,True
+gemma-4-31b,CN2,2,1499,10,赛意信息 | SieMatic | 鼎捷软件 | Digiwin | 盘古软件 | 西门子 | Siemens | Opcenter | 达索 | Dassault,0,False
+gemma-4-31b,EN2,2,3841,8,Plex | Rockwell Automation | Critical Manufacturing | Kingdee | Yonyou | Tulip Interfaces | SAP ME | Siemens,0,False
+gemma-4-31b,EN3,2,4128,7,Crimson Education | BeMo Academic Consulting | IDP Education | Kaplan | British Council | Common App | UCAS,0,False
+gpt-5.4,CN1,1,1374,4,纷享销客 | 销售易 | Zoho CRM | 悟空 CRM,0,False
+gpt-5.4,CN2,1,1372,17,西门子 Siemens Opcenter | 罗克韦尔 Rockwell FactoryTalk MES | 达索 DELMIA Apriso | SAP Digital Manufacturing | SAP ME | 鼎捷 | 赛意信息 | 宝信软件 | 中控技术 | 用友 | 金蝶 | 能科科技 | 黑湖科技 | 摩尔元数 | 柠檬豆 | 寄云 | 兰光,0,False
+gemma-4-31b,CN1,1,1657,12,Salesforce | 纷享销客 | 飞书多维表格 | Airtable | Notion | Slack | 销售易 | Zoho CRM | HubSpot | Pipedrive | Odoo | SuiteCRM,0,False
+gpt-5.4,CN3,1,1270,14,新东方前途出国 | 启德教育 | 金吉列留学 | 新通教育 | IDP教育 | 威久留学 | 澳际教育 | 津桥留学 | 啄木鸟教育 | 指南者留学 | 启德 | 新东方前途 | IDP | 新通,0,False
+agnes,CN1,1,751,6,纷享销客 | 销售易 | Zoho CRM | HubSpot CRM | 简道云 | 明道云,0,False
+gpt-5.4,EN1,1,3076,5,HubSpot CRM | Pipedrive | Zoho CRM | Freshsales | Close,0,False
+gemma-4-31b,CN2,1,1514,6,赛意信息 | 摩尔线程 | 用友 | 金蝶 | 西门子 | 达索,0,False
+gpt-5.4,EN2,1,4424,11,Siemens Opcenter | Rockwell Automation | Plex MES | Plex Smart Manufacturing Platform | AVEVA MES | AVEVA | Wonderware | Dassault Systèmes DELMIA Apriso | SAP Digital Manufacturing | SAP ERP | Critical Manufacturing,0,False
+gpt-5.4,EN3,1,2302,8,IDP Education | SI-UK | SI-Global | AECC Global | ApplyBoard | Crimson Education | IvyWise | EducationUSA,0,False
+gemma-4-31b,CN3,1,1447,1,新东方前途出国,0,False
+gpt-5.4,CN1,2,1400,3,纷享销客 | 销售易 | Zoho CRM,0,False
+gpt-5.4,CN2,2,1368,6,西门子 Siemens Opcenter | 达索 DELMIA Apriso | Rockwell FactoryTalk | Plex | 鼎捷 | 用友,0,False
+gpt-5.4,CN3,2,1309,6,新东方前途出国 | 启德教育 | 金吉列留学 | 新通教育 | 威久留学 | 澳际教育,0,True
+gpt-5.4,EN1,2,2785,5,HubSpot CRM | Pipedrive | Zoho CRM | Freshsales | Insightly,0,False
+agnes,EN1,2,1170,5,HubSpot CRM | Zoho CRM | Pipedrive | Salesforce Essentials | HubSpot's free tier,0,False
+gpt-5.4,EN2,2,4339,15,Siemens Opcenter | Rockwell FactoryTalk ProductionCentre | Plex | SAP Digital Manufacturing | Dassault DELMIA Apriso | 鼎捷 Digiwin | 用友 YonBIP | UFIDA manufacturing solutions | 金蝶 Kingdee manufacturing/MES ecosystem | Critical Manufacturing | Aegis FactoryLogix | MPDV HYDRA | Rockwell Plex / FactoryTalk | DELMIA Apriso | YonBIP / UFIDA,0,False
+gemma-4-31b,EN1,2,3269,6,Salesforce | HubSpot | Pipedrive | Zoho CRM | Airtable | Monday.com,0,False
+gpt-5.4,EN3,2,3392,13,IDP Education | ApplyBoard | SI-UK | SI-Global | AECC Global | KC Overseas Education | Crimson Education | The Princeton Review | EducationUSA | British Council | Campus France | DAAD | Study in Holland,0,True
+gemma-4-31b,CN3,2,1466,1,新东方前途出国,0,False
+gemma-4-31b,EN1,1,3240,6,Salesforce | HubSpot | Pipedrive | Zoho CRM | Airtable | Zapier,0,False
+deepseek,EN3,2,263,0,,0,False
