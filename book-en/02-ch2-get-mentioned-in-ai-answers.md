@@ -34,7 +34,7 @@ The first 4 are must-dos, the middle 3 are pitfalls to avoid, and the last 3 are
 3. Don't use pure client-side rendering: most AI crawlers do not execute JavaScript, so content that depends on browser rendering is, in their eyes, the same as not written.
 4. Use list form more: **52% of listicle articles achieve high citation rates on ChatGPT** [third-party verified].
 
-**Example**: Academic research on GEO tested 9 optimization methods; keyword stuffing was almost useless, and on Perplexity even performed **10% worse** than doing nothing [official].
+**Example**: Academic research on GEO tested 9 optimization methods; keyword stuffing was almost useless, and on Perplexity even performed **10% worse** than doing nothing [official]. Rankings and citations are no longer the same thing: an analysis of 863,000 search results pages puts the share of AI Overview citations drawn from Google's top-10 pages at 37.9%, down from 76.1% in an earlier round of research [third-party verified] — making the top ten does not mean making the answer.
 
 **Pitfalls**: Making the page pretty but unable to yield facts. AI does not eat design; it eats sentences.
 
@@ -63,7 +63,7 @@ The first 4 are must-dos, the middle 3 are pitfalls to avoid, and the last 3 are
 2. Reuse it verbatim everywhere you speak publicly: your own site, encyclopedia entries, third-party review pages, recruiting pages, product data feeds.
 3. **Don't write two prices on your own site and product feed** — at the answer layer, two prices equal no price.
 
-**Example**: Real-time data from one monitoring firm shows **51.7% of AI citations point at the brand's own website** [vendor claim]. The biggest source of citations is often yourself — provided it can be read, and the version is consistent.
+**Example**: Real-time data from one monitoring firm shows **51.7% of AI citations point at the brand's own website** [vendor claim]. The biggest source of citations is often yourself — provided it can be read, and the version is consistent. A different sample gives a different distribution: across more than 1,000,000 citations on ChatGPT, Perplexity, and Google AI Overviews, community platforms (Reddit, Quora and the like) take 52.5% and brand-owned domains 47.5% [third-party verified]. The two samples cover different ground and the shares differ by a few points, but both point at the same thing: your own pages are the single largest source. The same analysis found a threshold further upstream — 73% of sites block AI crawlers through robots.txt, CDN rules, or JavaScript rendering [third-party verified]. Before you can be cited, you have to survive being crawled.
 
 **Pitfalls**: Changing only your own site and ignoring the outdated information on third-party pages. AI reads the whole web.
 
@@ -142,7 +142,7 @@ In November 2025, OpenAI launched ChatGPT "shopping research": the user states a
 2. Ask it to give **its own visibility baseline**: under which questions it gets mentioned, how the data was collected (API or sampled from the interface), and the sample size.
 3. Then ask three more things: can it give executable actions, is there a control group proving the effect, and who is accountable when things go wrong.
 
-**Example**: One monitoring firm's own data shows that **70% of marketing agencies are not cited on AI platforms themselves** [vendor claim].
+**Example**: One monitoring firm's own data shows that **70% of marketing agencies are not cited on AI platforms themselves** [vendor claim]. The abuse risk on the provider side has already been named in an industry document: a GEO trusted-ecosystem report from the China Artificial Intelligence Industry Development Alliance (AIIA) groups the poisoning tactics into two stages — content writing and distribution — covering forged authority endorsements, smearing competitors, malicious keyword stuffing, implicit prompt injection, coordinated matrix-account posting, and contamination of high-authority sources; its governance path is written as provider self-discipline plus whole-chain coordination, and it records that the Cyberspace Administration of China has launched a special campaign, that the alliance has issued a GEO credibility self-discipline pledge with nearly 20 companies taking part, and that the Basic Requirements for Trustworthy GEO Services has been drafted and entered pilot evaluation [official: industry alliance]. When you vet a provider, read these before the performance numbers on a case-study page.
 
 **Pitfalls**: Letting the vendor prove its value with a dashboard it made itself. An industry roundup in this field ranked the roundup's own author first [vendor claim] — **a leaderboard is not due diligence.**
 
@@ -172,3 +172,7 @@ In November 2025, OpenAI launched ChatGPT "shopping research": the user states a
 [14] Sean Ellis | How Glasp took ChatGPT traffic from 500 to 19,000 using server logs | https://seanellis.substack.com/p/how-glasp-grew-chatgpt-traffic-from | [third-party verified: founder's own account]
 [15] Digiday | AI Overviews and publisher referral traffic | 2025-08-15 | https://digiday.com/media/google-ai-overviews-linked-to-25-drop-in-publisher-referral-traffic-new-data-shows/ | [third-party verified]
 [16] China Economic Net (relaying CCTV.com) | Measures for the labeling of AI-generated synthetic content and GB 45438-2025 (effective 2025-09-01) | https://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml | [third-party verified]
+
+[17] OtterlyAI | The AI Citations Report 2026 (1M+ citations: community platforms 52.5%, brand-owned domains 47.5%; 73% of sites block AI crawlers via robots.txt/CDN/JS rendering) | 2026-02 | https://otterly.ai/blog/the-ai-citations-report-2026 | [third-party verified]
+[18] Strategi | AI Search Visibility Statistics 2026 (BrightEdge across five engines: source overlap 16%–59%, brand overlap 36%–55%; Ahrefs' 863,000 SERPs: AI Overview citations from top-10 pages 76.1% → 37.9%) | https://strategi.is/blogs/ai-search-visibility-statistics-2026-the-engines-disagree-on-sources-and-agree-on-brands | [third-party verified]
+[19] China Artificial Intelligence Industry Development Alliance (AIIA) | 2026 Research Report on Building a Trustworthy Generative Engine Optimization (GEO) Ecosystem (poisoning tactics and governance path; GEO credibility self-discipline pledge with nearly 20 companies; pilot evaluation of the Basic Requirements for Trustworthy GEO Services) | https://www.sohu.com/a/1026647008_121964487 | [official: industry alliance]
