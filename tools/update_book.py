@@ -37,10 +37,11 @@ def bump_version(current, patch_only=True):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--title", required=True, help="更新标题，如 v1.0.1 每周更新")
-    ap.add_argument("--notes", required=True, help="更新说明（多行，每行一个要点）")
+    ap.add_argument("--notes", required=True, action="append", help="更新说明（可重复传入，每条一个要点）")
     ap.add_argument("--version", default=None, help="显式指定新版本号（缺省 patch+1）")
     ap.add_argument("--force", action="store_true", help="忽略同日去重，强制执行")
     args = ap.parse_args()
+    notes = "\n".join(args.notes)
 
     # 幂等检查
     today = datetime.now().strftime("%Y-%m-%d")
@@ -63,7 +64,7 @@ def main():
 
 **{args.title}**
 
-{args.notes}
+{notes}
 
 ---
 """
@@ -79,7 +80,7 @@ def main():
 
 **{args.title}**
 
-{args.notes}
+{notes}
 
 """
     with open(APPENDIX_C, "a", encoding="utf-8") as f:
