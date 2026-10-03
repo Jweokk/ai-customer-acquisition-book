@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.3.3 — 2026-10-04
+
+**每周更新: 三池新素材织入 9 章 - AI 引用结构 / 中文智能体入口 / AI SDR 定价与失败点 / 对话合规红线**
+
+扫四池: wiki raw/articles, concepts 与 topics/ai-customer-growth, growth-hacking, ai-native-org 三个主题采集池的最近 7 天新增; 筛后增量织入第 2, 7, 8, 9, 13, 16, 21, 22, 24 章, 新增来源 24 条; 中英同步 9 个文件 book-en/, 术语与分档按 assets/glossary-en.md 映射.
+新引数字逐条回源核过: AirOps 与 Kevin Indig, 5W PR, Profound, GoDataFeed, ACI 与 YouGov, QuestMobile 与每经, 21 财经, 雷锋网, 科技日报, AiSDR, Rework, 中消协, CNBC 与 Qualtrics, Klaviyo, 最高法, 中央网信办, 中国网, 肯塔基州总检, Baker Botts, Google Ads 官方博客. 挡下并撤出无法回到原始发布方的候选: arXiv 圣加仑引用重合数值, AirOps 的 Reddit 9.9%, 91%, 71.8% 三数, Gartner CMO 劳动力占比, 小红书未标识限流, Growth Hackers 台湾站 Uber 增量实验.
+llms.txt 中英双向比对一致, 无需改动; 自检 tools/check_chapters.py 全绿.
+
+---
 ## v0.3.2 — 2026-09-27
 
 **每周更新：三池新素材织入序与 21 章（引文结构变动 / 买方代理授权层 / 平台内搜索主干道 / 增量实验）**
