@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.3.4 — 2026-10-11
+
+**每周更新：AI 引荐流量的质量刻度与平台侧的新规则**
+
+新增 30 条来源、17 章并入：可见度阶梯（arXiv GEO 基线、SparkToro 零点击、Digital Bloom 流量报告）、第三方可信度（Burson 可信度悖论、SE Ranking 评价平台引用）、机器可读与爬虫选择（Google 生成式 AI 控制、OpenAI 爬虫文档、SearchScore 审计）、买家代理与代理支付（Stripe SPT 扩展、Crossmint 协议分层）、平台内与生态目录（微信小店搜一搜与费率 FAQ、AWS express private offers、GPT Store/Claude Marketplace/MCP Registry）、内容与广告生产（百度擎舵 3.0+AIMax、8frame 案例、pSEO 四案例原始数据）、外联与 PLG 基准（10 万封配对冷邮件）、AI 接客计费与复盘（Intercom 结果计费、Klarna 回补人工）、宏观刻度（Adobe/Attentive AI 流量质量、Cloudflare/CMA 爬虫分离、CAC 2026 专项行动、AI-CMO 预算、Seekr 幻觉案例）
+中英双语同步更新；新增外链逐条 curl 实测可达（HTTP 200）
+自检：tools/check_chapters.py 全绿；check_llms_sync.py 显示中英章节集合与 llms.txt 一致，llms.txt 无需改动
+
+---
 ## v0.3.3 — 2026-10-04
 
 **每周更新: 三池新素材织入 9 章 - AI 引用结构 / 中文智能体入口 / AI SDR 定价与失败点 / 对话合规红线**

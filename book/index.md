@@ -112,6 +112,8 @@
 - [《AI 原生组织》](https://aiorg.fly2ai.top) — 让组织本身长出 AI 基因，而不是贴膏药
 - [《AI 时代人生指南》](https://ailife.fly2ai.top) — 个人在 AI 时代的生存与选择
 - [《AI 客户经营》](https://ai-customer-growth.fly2ai.top) — 客户进来之后：留存、复购与 LTV
+
+- [《变老说明书》](https://aging.fly2ai.top) — 你或你父母的下一步：分阶段用得上的晚年手册
 - [书城 ai.fly2ai.top](https://ai.fly2ai.top) — 全部开源书目录
 
 ## 版权
