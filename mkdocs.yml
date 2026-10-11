@@ -49,6 +49,9 @@ extra:
 
 copyright: 著作权归作者 Jweokk 所有 · 免费阅读与非商业性分享 · 商业用途须书面许可 · 联系 weokk2025@gmail.com
 
+extra_javascript:
+  - assets/shelf-counter.js   # 页脚：访问计数 + PDF 下载计数（counter.fly2ai.top）
+
 nav:
   - 首页: index.md
   - 序 · 客户找供应商的方式变了: 00-序-客户找供应商的方式变了.md
