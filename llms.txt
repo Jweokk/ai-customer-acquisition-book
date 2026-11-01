@@ -1,0 +1,48 @@
+# AI 获客 (AI Customer Acquisition)
+> Open-source, continuously updated. Customer acquisition in the age of AI search and agents: GEO / answer engines, buyer agents and platform dependency. 一本免费公开、持续更新的开源书：用 AI 拓客——找到、选中、谈成、带走。
+
+Key thesis: 客户不再只在搜索框和展会上挑供应商——他们问 AI、让 Agent 去筛、看平台推的和别人说的。
+Source discipline: 每条数据句末标性质（五档主干+括注）；核不到原始发布方的数字不写入正文；自建实测公开方法与原始数据。
+
+## Links
+- Read online (Chinese): https://ai-customer-acquisition.fly2ai.top
+- English edition（逐章英文文件在 book-en/）: https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/00-preface-how-buyers-find-vendors.md
+- GitHub: https://github.com/Jweokk/ai-customer-acquisition-book
+- PDF (latest): https://github.com/Jweokk/ai-customer-acquisition-book/raw/main/book/ai-customer-acquisition.pdf
+
+## Contents
+
+- [序 · 客户找供应商的方式变了](https://ai-customer-acquisition.fly2ai.top/00-序-客户找供应商的方式变了/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/00-preface-how-buyers-find-vendors.md) — 主线一句话；读者定位表；那个公式
+- [00z-篇一-先看清战场](https://ai-customer-acquisition.fly2ai.top/00z-篇一-先看清战场/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/part1-see-the-battlefield.md) — 先确认客户在哪儿挑、你在不在场
+- [01z-篇二-AI时代的新方法](https://ai-customer-acquisition.fly2ai.top/01z-篇二-AI时代的新方法/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/part2-new-methods-for-the-ai-era.md) — 客户新增的几条路，先占住
+- [08z-篇三-用AI改造老办法](https://ai-customer-acquisition.fly2ai.top/08z-篇三-用AI改造老办法/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/part3-upgrading-the-old-methods.md) — 找到 → 选中 → 谈成 → 带走
+- [19z-篇四-别白花钱别把地基打歪](https://ai-customer-acquisition.fly2ai.top/19z-篇四-别白花钱别把地基打歪/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/part4-dont-waste-money-or-build-on-sand.md) — 不在客户旅程上，是前两篇的约束条件
+- [第 1 章 先看清战场：客户现在怎么挑供应商](https://ai-customer-acquisition.fly2ai.top/01-第1章-先看清战场/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/01-ch1-see-the-battlefield.md) — 入口审计五步；先看自己在不在场
+- [第 2 章 让 AI 在回答里提到你：GEO/AEO 怎么做](https://ai-customer-acquisition.fly2ai.top/02-第2章-让AI在回答里提到你/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/02-ch2-get-mentioned-in-ai-answers.md) — 让 AI 提到你，而且不说错
+- [第 3 章 挤进客户的第一份名单](https://ai-customer-acquisition.fly2ai.top/03-第3章-挤进客户的第一份名单/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/03-ch3-get-onto-the-first-shortlist.md) — 候选集是分布不是名单；稳定率才是资产
+- [第 4 章 让第三方替你说话](https://ai-customer-acquisition.fly2ai.top/04-第4章-让第三方替你说话/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/04-ch4-let-third-parties-speak-for-you.md) — 经营"别人那里"的证据
+- [第 5 章 先讲自己的坑](https://ai-customer-acquisition.fly2ai.top/05-第5章-先讲自己的坑/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/05-ch5-lead-with-your-own-pitfalls.md) — 风险话题即入口
+- [第 6 章 让机器读懂你](https://ai-customer-acquisition.fly2ai.top/06-第6章-让机器读懂你/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/06-ch6-be-readable-by-machines.md) — 结构化、可核验、可调用
+- [第 7 章 让买家的 AI 代理选中你](https://ai-customer-acquisition.fly2ai.top/07-第7章-让买家的AI代理选中你/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/07-ch7-win-the-buyers-ai-agent.md) — 客户把选型交给 AI 之后
+- [第 8 章 中文市场要多做三件事](https://ai-customer-acquisition.fly2ai.top/08-第8章-中文市场要多做三件事/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/08-ch8-three-extra-moves-for-chinese-markets.md) — 中文语料是另一套地形
+- [第 9 章 投广告：从"选人群"到"给目标"](https://ai-customer-acquisition.fly2ai.top/09-第9章-投广告/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/09-ch9-advertising-from-audiences-to-targets.md) — 定向交给系统，剩下的是目标、种子、素材、回路
+- [第 10 章 在别人的平台上获客](https://ai-customer-acquisition.fly2ai.top/10-第10章-在别人的平台上获客/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/10-ch10-acquire-on-other-peoples-platforms.md) — 应用商店、电商站内、行业目录
+- [第 11 章 让别人替你卖](https://ai-customer-acquisition.fly2ai.top/11-第11章-让别人替你卖/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/11-ch11-let-partners-sell-for-you.md) — 渠道、代理、生态目录
+- [第 12 章 把一次内容拆成三十条](https://ai-customer-acquisition.fly2ai.top/12-第12章-把一次内容拆成三十条/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/12-ch12-turn-one-piece-into-thirty.md) — 内容工厂与矩阵分发的边界
+- [第 13 章 外联：从"发得多"到"发得准"](https://ai-customer-acquisition.fly2ai.top/13-第13章-外联-从发得多到发得准/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/13-ch13-outreach-from-volume-to-precision.md) — 触达资产账本；收件侧与监管的收口
+- [第 14 章 做出别人抄不走的内容](https://ai-customer-acquisition.fly2ai.top/14-第14章-做出别人抄不走的内容/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/14-ch14-content-others-cannot-copy.md) — 一手数据与真实案例
+- [第 15 章 让产品自己拉客](https://ai-customer-acquisition.fly2ai.top/15-第15章-让产品自己拉客/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/15-ch15-let-the-product-acquire.md) — 免费工具、试用、开放接口
+- [第 16 章 让 AI 24 小时替你接客户](https://ai-customer-acquisition.fly2ai.top/16-第16章-让AI24小时替你接客户/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/16-ch16-let-ai-answer-around-the-clock.md) — 把下班后的咨询变成线索
+- [第 17 章 用 AI 找客户、管线索、跑销售](https://ai-customer-acquisition.fly2ai.top/17-第17章-用AI找客户管线索跑销售/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/17-ch17-find-qualify-and-run-the-sale.md) — 从信号发现到前段工序被 AI 接走
+- [第 18 章 电话和私域：哪些还能用，哪些碰了就出事](https://ai-customer-acquisition.fly2ai.top/18-第18章-电话和私域/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/18-ch18-phone-and-private-domains.md) — 合规红线
+- [第 19 章 让客户替你带客户](https://ai-customer-acquisition.fly2ai.top/19-第19章-让客户替你带客户/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/19-ch19-let-customers-bring-customers.md) — 口碑、推荐与裂变
+- [第 20 章 怎么知道有没有用](https://ai-customer-acquisition.fly2ai.top/20-第20章-怎么知道有没有用/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/20-ch20-how-to-know-its-working.md) — 三套账本和一次停投实验
+- [第 21 章 别把命押在一个入口](https://ai-customer-acquisition.fly2ai.top/21-第21章-别把命押在一个入口/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/21-ch21-dont-bet-on-one-gateway.md) — 依赖体检与对冲
+- [第 22 章 先打地基](https://ai-customer-acquisition.fly2ai.top/22-第22章-先打地基/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/22-ch22-build-the-foundation.md) — 一方数据、合规、全渠道编排
+- [第 23 章 谁来干、花多少钱](https://ai-customer-acquisition.fly2ai.top/23-第23章-谁来干花多少钱/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/23-ch23-who-does-it-and-what-it-costs.md) — 三档最小配置
+- [第 24 章 别踩这些线](https://ai-customer-acquisition.fly2ai.top/24-第24章-别踩这些线-六份失败档案/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/24-ch24-red-lines-six-failure-files.md) — 六份失败档案与三条原则
+- [附录 A 案例索引与资料出处](https://ai-customer-acquisition.fly2ai.top/90-附录A-案例索引与资料出处/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/appendix-a-case-index-and-sources.md) — 分档台账与可核性
+- [附录 B 手段平台索引表与指标字典](https://ai-customer-acquisition.fly2ai.top/91-附录B-手段平台索引与指标字典/)
+- [附录 C 版本历史与更新说明](https://ai-customer-acquisition.fly2ai.top/92-附录C-版本历史与更新说明/) / [EN](https://github.com/Jweokk/ai-customer-acquisition-book/blob/main/book-en/appendix-c-version-history.md)
+- [附录 D 行业差异矩阵](https://ai-customer-acquisition.fly2ai.top/93-附录D-行业差异矩阵/)
+- [附录 E 全书参考文献](https://ai-customer-acquisition.fly2ai.top/94-附录E-全书参考文献/) — 全书来源合并去重、统一编号
